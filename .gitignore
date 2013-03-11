@@ -1,0 +1,33 @@
+## Arquivos de postagens e frases
+# Frases
+/htdocs/p/*.frase
+## Postagens
+# Título
+/htdocs/p/*.t
+# Disclaimer
+/htdocs/p/*.disc
+# Descrição
+/htdocs/p/*.desc
+# Conteúdo
+/htdocs/p/*.post
+# Rodapé
+/htdocs/p/*.r
+# Data
+/htdocs/p/*.data
+# Fonte
+/htdocs/p/*.src
+# Categoria
+/htdocs/p/*.cat
+# Permitindo postagem e frase de exemplo
+!/htdocs/p/1337.*
+
+## Bloqueando canais RSS locais
+/htdocs/rss/*
+!/htdocs/rss/index.html
+
+## Liberando arquivos .htaccess
+!*.htaccess
+
+## Scripts em admin/ ainda não estão seguros
+/htdocs/admin/*.pl
+

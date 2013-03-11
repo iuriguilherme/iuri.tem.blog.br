@@ -1,0 +1,1 @@
+Postagem de exemplo

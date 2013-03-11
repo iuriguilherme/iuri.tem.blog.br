@@ -1,0 +1,6 @@
+Options Indexes +FollowSymLinks +MultiViews
+Order allow,deny
+allow from all
+
+DirectoryIndex index.html
+

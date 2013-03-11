@@ -1,0 +1,10 @@
+Options Indexes FollowSymLinks +Includes +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+Order allow,deny
+allow from all
+
+# Isto é necessário para executar os scripts
+AddHandler cgi-script .pl
+
+# É necessário alterar a página inicial para a extensão do script
+DirectoryIndex index.pl
+
