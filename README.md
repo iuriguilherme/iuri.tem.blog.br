@@ -5,18 +5,25 @@ Código do site iuri.blog.br
 
 # Dependências:
 
-Perl versão 5;
-Servidor Web;
-Servidor Web com capacidade para trancar diretórios com senha para usar o admin/;
+* Perl versão 5;
+
+* Servidor Web;
+
+* Servidor Web com capacidade para trancar diretórios com senha para usar o admin/;
 
 ## Pacotes perl/cpan:
 
-CGI
-DateTime::Format::Mail
-Email::Date::Format
-File::Slurp
-IO::File
-XML::RSS
+* CGI
+
+* DateTime::Format::Mail
+
+* Email::Date::Format
+
+* File::Slurp
+
+* IO::File
+
+* XML::RSS
 
 # Instruções
 
