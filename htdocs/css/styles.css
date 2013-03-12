@@ -1,1 +1,31 @@
-/home/iggy/var/sites/blog/htdocs/css/styles.css
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponível em http://iuri.blog.br/sobre/
+*/
+body {
+	background: #c00e37;
+	background: -moz-linear-gradient(bottom, #c00e37 0%, #ab0b31 44%, #8f0727 100%);
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#c00e37), color-stop(44%,#ab0b31), color-stop(100%,#8f0727));
+	background: -webkit-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: -o-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: -ms-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: linear-gradient(to top, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c00e37', endColorstr='#8f0727',GradientType=0 );
+	color:white;
+	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New", "Monospace";
+	font-weight:bold;
+}
+a {
+	color:white;
+}
+ul {
+	list-style-type:none;
+}
+ul.horizontal, ul.horizontal li {
+	display:inline;
+}
+ul.vertical, ul.vertical li {
+	padding:0.1em;
+	display:block;
+}
+

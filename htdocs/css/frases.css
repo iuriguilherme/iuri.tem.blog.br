@@ -1,1 +1,14 @@
-/home/iggy/var/sites/blog/htdocs/css/frases.css
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponível em http://iuri.blog.br/sobre/
+*/
+body {
+	text-align:center;
+}
+table.frases tr, table.frases td {
+	border:0.01em solid white;
+}
+ul.horizontal a {
+	text-decoration:none;
+}
+

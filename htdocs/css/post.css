@@ -1,1 +1,11 @@
-/home/iggy/var/sites/blog/htdocs/css/post.css
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponível em http://iuri.blog.br/sobre/
+*/
+p.citacao {
+	font-style:italic;
+}
+p.aviso {
+	font-weight:bold;
+}
+

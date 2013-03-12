@@ -1,1 +1,59 @@
-/home/iggy/var/sites/blog/htdocs/css/rodape.css
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponível em http://iuri.blog.br/sobre/
+*/
+* {
+	margin:0;
+}
+html {
+	height: 100%;
+}
+body {
+	height:100%;
+}
+p, h1, h2, h3, h4, h5, h6 {
+	padding:0.5em;
+}
+.principal {
+	min-height:100%;
+	height:auto !important;
+	height:100%;
+	margin:0 auto -96px;
+	background: #c00e37;
+	background: -moz-linear-gradient(bottom, #c00e37 0%, #ab0b31 44%, #8f0727 100%);
+	background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#c00e37), color-stop(44%,#ab0b31), color-stop(100%,#8f0727));
+	background: -webkit-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: -o-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: -ms-linear-gradient(bottom, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	background: linear-gradient(to top, #c00e37 0%,#ab0b31 44%,#8f0727 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c00e37', endColorstr='#8f0727',GradientType=0 );
+}
+.divisoria {
+	height:96px;
+}
+.rodape {
+	position:fixed;
+	bottom:0;
+	width:100%;
+	overflow:hidden;
+	height:96px;
+	background: #dc0033;
+	background: -moz-linear-gradient(top, #dc0033 0%, #c4002e 44%, #a60027 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dc0033), color-stop(44%,#c4002e), color-stop(100%,#a60027));
+	background: -webkit-linear-gradient(top, #dc0033 0%,#c4002e 44%,#a60027 100%);
+	background: -o-linear-gradient(top, #dc0033 0%,#c4002e 44%,#a60027 100%);
+	background: -ms-linear-gradient(top, #dc0033 0%,#c4002e 44%,#a60027 100%);
+	background: linear-gradient(to bottom, #dc0033 0%,#c4002e 44%,#a60027 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc0033', endColorstr='#a60027',GradientType=0 );
+}
+.licenca {
+	padding:0.01em;
+}
+span.licenca_imagens {
+	float:left;
+}
+span.licenca_texto {
+	text-align:center;
+	float:center;
+}
+
