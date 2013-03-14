@@ -2,10 +2,18 @@
 	Copyleft 2013 iuri.blog.br
 	Licença disponível em http://iuri.blog.br/sobre/
 */
-p.citacao {
+.disclaimer, p.citacao {
 	font-style:italic;
 }
-p.aviso {
+span.perigo, p.aviso {
 	font-weight:bold;
+	text-decoration:underline;
+}
+ul.poema {
+	list-style-type:none;
+}
+ul.poema li {
+	font-style:italic;
+	list-style-type:none;
 }
 
