@@ -1,3 +1,4 @@
+@charset 'UTF-8';
 /*
 	Copyleft 2013 iuri.blog.br
 	Licença disponível em http://iuri.blog.br/sobre/
@@ -6,7 +7,7 @@
 	margin:0;
 }
 html {
-	height: 100%;
+	height:100%;
 }
 body {
 	height:100%;
@@ -51,11 +52,11 @@ p, h1, h2, h3, h4, h5, h6 {
 	text-align:center;
 	padding:0.01em;
 }
-span.licenca_imagens {
+.licenca_imagens {
 	text-align:center;
 	float:left;
 }
-span.licenca_texto {
+.licenca_texto {
 	text-align:center;
 	float:center;
 }

@@ -1,3 +1,4 @@
+@charset 'UTF-8';
 /*
 	Copyleft 2013 iuri.blog.br
 	Licença disponível em http://iuri.blog.br/sobre/
@@ -13,8 +14,12 @@ table {
 	margin-left:auto;
 	margin-right:auto;
 }
-table.canais, table.postagens, table.postagens tr, table.postagens td, table.canais tr, table.canais td {
+table.canais, table.postagens, table.canais tr, table.canais td, table.postagens tr, table.postagens td {
 	border:0.1em solid white;
+}
+table.canais img {
+	height:16;
+	width:16;
 }
 table.postagens thead {
 	background-color:white;
@@ -23,15 +28,30 @@ table.postagens thead {
 table.postagens a {
 	text-decoration:none;
 }
-span.importante {
-	background-color:white;
-	color:#D02121;
+.frases {
+	font-size:xx-large;
 }
-span.importante a {
+.frases a {
 	color:#D02121;
 	text-decoration:none;
 }
-p.grande {
-	font-size:xx-large;
+.frases span {
+	background-color:white;
+	color:#D02121;
+}
+.rodape_imagens img {
+	height:32;
+	width:32;
+}
+img.postagens_links_imagens {
+	height:16;
+	width:16;
+}
+img.postagens_links_imagens_grande {
+	height:16;
+}
+.avisos_perigo img {
+	height:64;
+	width:64;
 }
 

@@ -12,6 +12,7 @@ Content-Type: text/html; charset=utf-8
 <!DOCTYPE html>
 <html dir='auto' lang='pt-BR'>
 <head>
+	<meta charset='UTF-8' />
 	<meta name='description' content="I.U.R.I. - Igreja Universal do Reino do IURI" />
 	<meta name='keywords' content="I.U.R.I., iuri, iuri guilherme, iuri guilherme dos santos martins, porto alegre, expressão" />
 	<link rel="shorcut icon" href='../favicon.ico' />
@@ -30,9 +31,10 @@ Onde <i>NUMERO</i> &eacute; o n&uacute;mero da frase.</p>
 EOF
 }
 
-my @frases = glob "../p/*.frase" or croak;
-my $frases_total = scalar(@frases);
-my $frases_licenca = read_file("../html/licenca.htm") or croak;
+my @{frases} = glob "../p/*.frase" or croak;
+my ${frases_total} = scalar(@{frases});
+my ${licenca} = read_file("../html/licenca.htm") or croak;
+my ${frase_estilo} = 'frase_normal';
 
 print <<EOF;
 Content-Type: text/html; charset=utf-8
@@ -40,6 +42,7 @@ Content-Type: text/html; charset=utf-8
 <!DOCTYPE html>
 <html dir='auto' lang='pt-BR'>
 <head>
+	<meta charset='UTF-8' />
 	<meta name='description' content="I.U.R.I. - Igreja Universal do Reino do IURI" />
 	<meta name='keywords' content="I.U.R.I., iuri, iuri guilherme, iuri guilherme dos santos martins, porto alegre, expressão" />
 	<link rel="shorcut icon" href='../favicon.ico' />
@@ -55,13 +58,13 @@ Content-Type: text/html; charset=utf-8
 <ul class='horizontal'>
 EOF
 
-foreach my $frase (@frases) {
-	my $frase_numero = $frase;
-	$frase_numero =~ s/\.frase$//;
-	$frase_numero =~ /([0-9]*)$/;
-	$frase_numero = $1;
+foreach my ${frase} (@{frases}) {
+	my ${frase_numero} = ${frase};
+	${frase_numero} =~ s/\.frase$//;
+	${frase_numero} =~ /([0-9]*)$/;
+	${frase_numero} = $1;
 	print <<EOF;
-	\t<li><a href='#$frase_numero'>$frase_numero</a></li>
+	\t<li><a href='./?f=${frase_numero}#${frase_numero}'>${frase_numero}</a></li>
 EOF
 }
 
@@ -71,22 +74,27 @@ print <<EOF;
 	<caption><h2>Todas as frases</h2></caption>
 	<thead>
 	\t<tr>
-	\t\t<td colspan='2'>Total de frases at&eacute; agora: $frases_total</td>
+	\t\t<td colspan='2'>Total de frases at&eacute; agora: ${frases_total}</td>
 	\t</tr>
 	</thead>
 	<tbody>
 EOF
 
-foreach my $frase (@frases) {
-	my $frase_numero = $frase;
-	$frase_numero =~ s/\.frase$//;
-	$frase_numero =~ /([0-9]*)$/;
-	$frase_numero = $1;
-	my $frase_conteudo = read_file("$frase");
+foreach my ${frase} (@{frases}) {
+	my ${frase_numero} = ${frase};
+	${frase_numero} =~ s/\.frase$//;
+	${frase_numero} =~ /([0-9]*)$/;
+	${frase_numero} = $1;
+	my ${frase_conteudo} = read_file("${frase}");
+	if ((param('f')) && (param('f') == ${frase_numero})) {
+		${frase_estilo} = 'frase_destaque';
+	} else {
+		${frase_estilo} = 'frase_normal';
+	}
 	print <<EOF;
 	\t<tr>
-	\t\t<td><a href='#$frase_numero'>$frase_numero</a></td>
-	\t\t<td><a name='$frase_numero' />$frase_conteudo</td>
+	\t\t<td><a href='./?f=${frase_numero}#${frase_numero}'>${frase_numero}</a></td>
+	\t\t<td><a name='${frase_numero}' /><span class='${frase_estilo}'>${frase_conteudo}</span></td>
 	\t</tr>
 EOF
 }
@@ -95,7 +103,7 @@ print <<EOF;
 	</tbody>
 	<tfoot>
 	\t<tr>
-	\t\t<td colspan='2'>Total de frases at&eacute; agora: $frases_total</td>
+	\t\t<td colspan='2'>Total de frases at&eacute; agora: ${frases_total}</td>
 	\t</tr>
 	</tfoot>
 </table>
@@ -106,7 +114,7 @@ print <<EOF;
 </div>
 <div class='rodape'>
 <hr>
-$frases_licenca
+${licenca}
 </div>
 </body>
 </html>

@@ -12,6 +12,7 @@ Content-Type: text/html; charset=utf-8
 <!DOCTYPE html>
 <html dir='auto' lang='pt-BR'>
 <head>
+	<meta charset='UTF-8' />
 	<meta name='description' content="I.U.R.I. - Igreja Universal do Reino do IURI" />
 	<meta name='keywords' content="I.U.R.I., iuri, iuri guilherme, iuri guilherme dos santos martins, porto alegre, expressão" />
 	<link rel="shorcut icon" href='../favicon.ico' />
@@ -30,48 +31,49 @@ EOF
 }
 
 if (param('p')) {
-	my $post_numero = param('p') or croak;
-	if ( -f "../p/$post_numero.post") {
-		my $post_disclaimer = read_file("../p/$post_numero.disc") or croak;
-		my $post_titulo = read_file("../p/$post_numero.t") or croak;
-		my $post_descricao = read_file("../p/$post_numero.desc") or croak;
-		my $post_conteudo = read_file("../p/$post_numero.post") or croak;
-		my $post_rodape = read_file("../p/$post_numero.r") or croak;
-		my $post_licenca = read_file("../html/licenca.htm") or croak;
+	my ${postagem_numero} = param('p') or croak;
+	if ( -f "../p/${postagem_numero}.post") {
+		my ${postagem_disclaimer} = read_file("../p/${postagem_numero}.disc") or croak;
+		my ${postagem_titulo} = read_file("../p/${postagem_numero}.t") or croak;
+		my ${postagem_descricao} = read_file("../p/${postagem_numero}.desc") or croak;
+		my ${postagem_conteudo} = read_file("../p/${postagem_numero}.post") or croak;
+		my ${postagem_rodape} = read_file("../p/${postagem_numero}.r") or croak;
+		my ${licenca} = read_file("../html/licenca.htm") or croak;
 		print <<EOF or croak;
 Content-Type: text/html; charset=utf-8
 
 <!DOCTYPE html>
 <html dir='auto' lang='pt-BR'>
 <head>
+	<meta charset='UTF-8' />
 	<meta name='description' content="I.U.R.I. - Igreja Universal do Reino do IURI" />
 	<meta name='keywords' content="I.U.R.I., iuri, iuri guilherme, iuri guilherme dos santos martins, porto alegre, expressão" />
 	<link rel="shorcut icon" href='../favicon.ico' />
 	<link rel='stylesheet' type='text/css' href='../css/styles.css' />
 	<link rel='stylesheet' type='text/css' href='../css/rodape.css' />
 	<link rel='stylesheet' type='text/css' href='../css/post.css' />
-<title>$post_titulo</title>
+<title>${postagem_titulo}</title>
 </head>
 <body>
 <div class='principal'>
 <p><a href='../' target='_self'>Voltar para iuri.blog.br</a></p>
 <hr>
-<h1>$post_titulo</h1>
+<h1>${postagem_titulo}</h1>
 <h2>Disclaimer</h2>
-$post_disclaimer
+${postagem_disclaimer}
 <hr>
 <h2>Descri&ccedil;&atilde;o/RSS</h2>
-$post_descricao
+${postagem_descricao}
 <hr>
 <h2>Conte&uacute;do</h2>
-$post_conteudo
+${postagem_conteudo}
 <hr>
-$post_rodape
+${postagem_rodape}
 <hr>
 <div class='divisoria'></div>
 </div>
 <div class='rodape'>
-$post_licenca
+${licenca}
 </div>
 </body>
 </html>
