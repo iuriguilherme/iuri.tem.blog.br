@@ -18,8 +18,8 @@ table.canais, table.postagens, table.canais tr, table.canais td, table.postagens
 	border:0.1em solid white;
 }
 table.canais img {
-	height:16;
-	width:16;
+	height:16px;
+	width:16px;
 }
 table.postagens thead {
 	background-color:white;
@@ -40,18 +40,18 @@ table.postagens a {
 	color:#D02121;
 }
 .rodape_imagens img {
-	height:32;
-	width:32;
+	height:32px;
+	width:32px;
 }
 img.postagens_links_imagens {
-	height:16;
-	width:16;
+	height:16px;
+	width:16px;
 }
 img.postagens_links_imagens_grande {
-	height:16;
+	height:16px;
 }
 .avisos_perigo img {
-	height:64;
-	width:64;
+	height:64px;
+	width:64px;
 }
 
