@@ -32,6 +32,15 @@ EOF
 }
 
 my @{frases} = glob "../p/*.frase" or croak;
+my @{frases_temp};
+foreach my ${frase} (@{frases}) {
+	my ${frase_numero} = ${frase};
+	${frase_numero} =~ s/\.frase$//;
+	${frase_numero} =~ /([0-9]*)$/;
+	${frase_numero} = $1;
+	push(@{frases_temp},${frase_numero});
+}
+@{frases} = sort { ${a} <=> ${b} } @{frases_temp};
 my ${frases_total} = scalar(@{frases});
 my ${licenca} = read_file("../html/licenca.htm") or croak;
 my ${frase_estilo} = 'frase_normal';
@@ -58,11 +67,7 @@ Content-Type: text/html; charset=utf-8
 <ul class='horizontal'>
 EOF
 
-foreach my ${frase} (@{frases}) {
-	my ${frase_numero} = ${frase};
-	${frase_numero} =~ s/\.frase$//;
-	${frase_numero} =~ /([0-9]*)$/;
-	${frase_numero} = $1;
+foreach my ${frase_numero} (@{frases}) {
 	print <<EOF;
 	\t<li><a href='./?f=${frase_numero}#${frase_numero}'>${frase_numero}</a></li>
 EOF
@@ -80,12 +85,8 @@ print <<EOF;
 	<tbody>
 EOF
 
-foreach my ${frase} (@{frases}) {
-	my ${frase_numero} = ${frase};
-	${frase_numero} =~ s/\.frase$//;
-	${frase_numero} =~ /([0-9]*)$/;
-	${frase_numero} = $1;
-	my ${frase_conteudo} = read_file("${frase}");
+foreach my ${frase_numero} (@{frases}) {
+	my ${frase_conteudo} = read_file("../p/${frase_numero}.frase");
 	if ((param('f')) && (param('f') == ${frase_numero})) {
 		${frase_estilo} = 'frase_destaque';
 	} else {
