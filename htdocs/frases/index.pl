@@ -37,7 +37,7 @@ foreach my ${frase} (@{frases}) {
 	my ${frase_numero} = ${frase};
 	${frase_numero} =~ s/\.frase$//;
 	${frase_numero} =~ /([0-9]*)$/;
-	${frase_numero} = $1;
+	${frase_numero} = ${1};
 	push(@{frases_temp},${frase_numero});
 }
 @{frases} = sort { ${a} <=> ${b} } @{frases_temp};
