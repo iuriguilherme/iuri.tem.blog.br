@@ -10,6 +10,9 @@
 	font-weight:bold;
 	text-decoration:underline;
 }
+.citacao {
+	font-style:italic;
+}
 .poema li, .poema ul {
 	font-style:italic;
 	list-style-type:none;
