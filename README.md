@@ -11,6 +11,10 @@ Código do site iuri.blog.br
 
 * Servidor Web com capacidade para trancar diretórios com senha para usar o admin/;
 
+* Servidor Web com suporte a SSI (Server-side Includes);
+
+* Servidor Web com suporte a execução de scripts CGI (mais especificamente Perl);
+
 ## Pacotes perl/cpan:
 
 * CGI
@@ -22,6 +26,8 @@ Código do site iuri.blog.br
 * File::Slurp
 
 * IO::File
+
+* Scalar::Util
 
 * XML::RSS
 

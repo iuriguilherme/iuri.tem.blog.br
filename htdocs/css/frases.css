@@ -3,17 +3,18 @@
 	Copyleft 2013 iuri.blog.br
 	Licença disponível em http://iuri.blog.br/sobre/
 */
-body {
+.principal {
 	text-align:center;
 }
-table.frases tr, table.frases td {
+.indice {
+}
+.frases tr, .frases td {
 	border:0.01em solid white;
 }
 ul.horizontal a {
 	text-decoration:none;
 }
 span.frase_normal {
-	text-align:center;
 }
 span.frase_destaque {
 	background-color:white;

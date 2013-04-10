@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<!--#config errmsg="<span class='ssi_erro'>Erro interno de script.</span>"-->
+<html dir='auto' lang='pt-BR'>
+<head>
+<!--#include virtual='../html/comum/head/metadados.htm'-->
+<!--#include virtual='../html/sobre/head/metadados.htm'-->
+<!--#include virtual='../html/comum/head/links.htm'-->
+<!--#include virtual='../html/comum/head/estilos.htm'-->
+<!--#include virtual='../html/sobre/head/estilos.htm'-->
+<!--#include virtual='../html/comum/head/titulo.htm'-->
+</head>
+<body>
+<a name='inicio' />
+<!--#include virtual='../html/comum/body/voltar.htm'-->
+<hr>
+<!--#include virtual='../html/comum/body/cabecalho_titulo.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/disclaimer.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/tos.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/licenca.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/licencas.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/adaptacoes.htm'-->
+<hr>
+<!--#include virtual='../html/sobre/body/rodape.htm'-->
+</body>
+</html>
+

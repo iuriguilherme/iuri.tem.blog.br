@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<!--#config errmsg="<span class='ssi_erro'>Erro interno de script.</span>"-->
+<html dir='auto' lang='pt-BR'>
+<head>
+<!--#include virtual='../html/comum/head/metadados.htm'-->
+<!--#include virtual='../html/ler/head/metadados.htm'-->
+<!--#include virtual='../html/comum/head/links.htm'-->
+<!--#include virtual='../html/comum/head/estilos.htm'-->
+<!--#include virtual='../html/ler/head/estilos.htm'-->
+<title><!--#exec cgi='../cgi-bin/postagem_titulo.pl'--></title>
+</head>
+<body>
+<div class='principal'>
+<!--#include virtual='../html/comum/body/voltar.htm'-->
+<hr>
+<h1><!--#exec cgi='../cgi-bin/postagem_titulo.pl'--></h1>
+<h2>Disclaimer</h2>
+<!--#exec cgi='../cgi-bin/postagem_disclaimer.pl'-->
+<hr>
+<h2>Descri&ccedil;&atilde;o</h2>
+<!--#exec cgi='../cgi-bin/postagem_descricao.pl'-->
+<hr>
+<!--#exec cgi='../cgi-bin/postagem_conteudo.pl'-->
+<hr>
+<!--#exec cgi='../cgi-bin/postagem_rodape.pl'-->
+<hr>
+<div class='divisoria'></div>
+</div>
+<div class='rodape'>
+<hr>
+<!--#include virtual='../html/comum/body/licenca.htm'-->
+</div>
+</body>
+</html>
+
