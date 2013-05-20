@@ -6,6 +6,9 @@
 .disclaimer {
 	font-style:italic;
 }
+.disclaimer span {
+	text-decoration:underline;
+}
 .aviso, .perigo {
 	font-weight:bold;
 	text-decoration:underline;

@@ -16,6 +16,8 @@ p, h1, h2, h3, h4, h5, h6 {
 	padding:0.5em;
 }
 .principal {
+	padding-left:3em;
+	padding-right:3em;
 	min-height:100%;
 	height:auto !important;
 	height:100%;
@@ -28,6 +30,10 @@ p, h1, h2, h3, h4, h5, h6 {
 	background:-ms-linear-gradient(bottom, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
 	background:linear-gradient(to top, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#C00E2F', endColorstr='#8F071F',GradientType=0 );
+	-moz-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
 }
 .divisoria {
 	height:96px;

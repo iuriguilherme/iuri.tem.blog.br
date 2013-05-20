@@ -24,6 +24,8 @@
 <hr>
 <!--#exec cgi='../cgi-bin/postagem_rodape.pl'-->
 <hr>
+<!--#include virtual='../html/comum/body/voltar.htm'-->
+<hr>
 <div class='divisoria'></div>
 </div>
 <div class='rodape'>

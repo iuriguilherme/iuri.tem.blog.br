@@ -79,7 +79,7 @@ table {
 	border-collapse: separate;
 }
 .canais_rss {
-	padding:0.5em;
+	padding:1em;
 }
 .canais_rss img {
 	height:16px;
@@ -95,7 +95,7 @@ table {
 	border-radius:1em;
 }
 .postagens {
-	padding:0.5em;
+	padding:1em;
 }
 .postagens a {
 	text-decoration:none;
