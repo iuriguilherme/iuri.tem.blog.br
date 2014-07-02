@@ -1,0 +1,21 @@
+@font-face {
+	font-family:"Univers Else";
+		src: url('http://iuri.blog.br/fonts/UniversElseRegular.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:"Univers Else";
+		src: url('http://iuri.blog.br/fonts/UniversElseLight.ttf') format('truetype');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:"Univers Else";
+		src: url('http://iuri.blog.br/fonts/UniversElseBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+

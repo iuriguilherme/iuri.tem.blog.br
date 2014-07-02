@@ -1,0 +1,105 @@
+@charset 'UTF-8';
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponí­vel em http://iuri.blog.br/sobre/
+*/
+body {
+	margin:0;
+	padding-left:4em;
+	padding-right:4em;
+	background:#C00E2F;
+	background:-moz-linear-gradient(bottom, #C00E2F 0%, #AB0B29 25%, #8F071F 100%);
+	background:-webkit-gradient(linear, left bottom, left top, color-stop(0%,#C00E2F), color-stop(25%,#AB0B29), color-stop(100%,#8F071F));
+	background:-webkit-linear-gradient(bottom, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
+	background:-o-linear-gradient(bottom, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
+	background:-ms-linear-gradient(bottom, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
+	background:linear-gradient(to top, #C00E2F 0%,#AB0B29 25%,#8F071F 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#C00E2F', endColorstr='#8F071F',GradientType=0 );
+	-moz-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
+	color:white;
+	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New", "Monospace";
+	font-weight:bold;
+	text-align:left;
+}
+a {
+	color:white;
+}
+hr {
+	border:0;
+	color:white;
+	background-color:white;
+	height:1px;
+	-moz-border-radius:1em;
+	-webkit-border-radius:1em;
+	-opera-border-radius:1em;
+	-khtml-border-radius:1em;
+	border-radius:1em;
+	-moz-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	-webkit-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+}
+img {
+	border:0;
+	max-width:100%;
+	max-height:100%;
+}
+ul {
+	list-style-type:none;
+}
+
+header {
+	padding:0.5em;
+}
+main {
+	padding:1em;
+}
+
+/* formatação */
+.horizontal ul li {
+	padding:0.1em;
+	display:inline;
+}
+.vertical ul li {
+	padding:0.1em;
+	display:block;
+}
+.aviso a {
+	color:#D02121;
+}
+.aviso p {
+	color:#D02121;
+	background-color:white;
+}
+
+/* rodapé */
+.separador {
+	-moz-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
+	padding:1em;
+}
+footer {
+	background: #8F071F;
+	background:-moz-linear-gradient(bottom, #8F071F 0%, #AB0B29 25%, #C00E2F 100%);
+	background:-webkit-gradient(linear, left bottom, left top, color-stop(0%,#8F071F), color-stop(25%,#AB0B29), color-stop(100%,#C00E2F));
+	background:-webkit-linear-gradient(bottom, #8F071F 0%,#AB0B29 25%,#C00E2F 100%);
+	background:-o-linear-gradient(bottom, #8F071F 0%,#AB0B29 25%,#C00E2F 100%);
+	background:-ms-linear-gradient(bottom, #8F071F 0%,#AB0B29 25%,#C00E2F 100%);
+	background:linear-gradient(to top, #8F071F 0%,#AB0B29 25%,#C00E2F 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#8F071F', endColorstr='#C00E2F',GradientType=0 );
+	-moz-box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	border-collapse: separate;
+	text-align:center;
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+}
+
