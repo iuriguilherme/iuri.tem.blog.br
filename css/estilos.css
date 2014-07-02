@@ -1,0 +1,104 @@
+@charset 'UTF-8';
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponí­vel em http://iuri.blog.br/sobre/#licenca
+*/
+/* estilos */
+body {
+	margin:0;
+	padding-left:4em;
+	padding-right:4em;
+	background:#E0E0E0;
+	-moz-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	text-shadow:0.1em 0.1em 0.1em rgba(0,0,0,0.2);
+	border-collapse:separate;
+	color:#333333;
+	font-family:"Univers Else";
+	font-weight:normal;
+	font-style:normal;
+	text-align:left;
+}
+a {
+	color:#333333;
+}
+hr {
+	border:0;
+	color:#333333;
+	background-color:#333333;
+	height:0;
+	-moz-border-radius:1em;
+	-webkit-border-radius:1em;
+	-opera-border-radius:1em;
+	-khtml-border-radius:1em;
+	border-radius:1em;
+	-moz-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	-webkit-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+}
+img {
+	border:0;
+	max-width:100%;
+	max-height:100%;
+}
+ul {
+	list-style-type:none;
+}
+p, h1, h2, h3, h4, h5, h6 {
+	padding:0.5em;
+}
+
+header {
+	padding:0.5em;
+}
+main {
+	padding:1em;
+}
+
+/* formatação */
+.horizontal ul li {
+	padding:0.1em;
+	display:inline;
+}
+.vertical ul li {
+	padding:0.1em;
+	display:block;
+}
+.aviso a {
+	color:#E0E0E0;
+}
+.aviso p {
+	color:#E0E0E0;
+	background-color:#333333;
+}
+.lista {
+	font-size:xx-large;
+}
+.lista a {
+	text-decoration:none;
+	font-size:xx-large;
+}
+
+/* rodapé */
+.separador {
+	-moz-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0.5em rgba(0,0,0,0.5), inset 3em -1em 3em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
+	padding:1em;
+}
+footer {
+	background:#E0E0E0;
+	-moz-box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	box-shadow:inset -3em -1em 3em 0em rgba(0,0,0,0.5), inset 3em -1em 3em 0em rgba(0,0,0,0.5);
+	border-collapse: separate;
+	text-align:center;
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+}
+

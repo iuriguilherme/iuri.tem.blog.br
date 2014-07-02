@@ -1,0 +1,126 @@
+@charset 'UTF-8';
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponí­vel em http://iuri.blog.br/sobre/#licenca
+*/
+body {
+	text-align:center;
+}
+hr {
+	width:80%;
+}
+
+/* cabeçalho */
+.menu ul {
+	padding:1em;
+}
+.menu a {
+	text-decoration:none;
+	font-size:x-large;
+	padding:1em;
+	background-color:#E0E0E0;
+	border:0.1em;
+	-moz-border-radius:5em;
+	-webkit-border-radius:5em;
+	-opera-border-radius:5em;
+	-khtml-border-radius:5em;
+	border-radius:5em;
+	-moz-box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
+}
+
+/* ordem */
+.ordem {
+	margin-left:10%;
+	margin-right:10%;
+	background-image:url("../img/escolhe_veneno.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+	text-align:center;
+}
+
+/* baphomet */
+.baphomet {
+	text-align:center;
+	height:100%;
+	width:100%;
+}
+.baphomet ul {
+	padding:0;
+	text-align:center;
+	height:100%;
+	width:100%;
+}
+.baphomet li {
+	list-style-type:none;
+	text-align:center;
+	padding:0;
+	height:100%;
+	width:100%;
+	min-height:130px;
+	min-width:130px;
+}
+.baphomet a {
+	text-decoration:none;
+	text-align:center;
+}
+.baphomet a img:hover {
+	border-radius:100%;
+	box-shadow:inset 0em 0em 2em 0.5em rgba(0,0,0,0.5);
+}
+.baphomet a img:active {
+	border-radius:100%;
+	box-shadow:0em 0em 2em 0.5em rgba(0,0,0,0.5);
+}
+.baphomet img {
+	max-width:128px;
+	max-height:128px;
+}
+li.li_topo {
+	background-image:url("../img/baphomet_chakras_topo.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_branco {
+	background-image:url("../img/baphomet_chakras_branco.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_indigo {
+	background-image:url("../img/baphomet_chakras_indigo.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_azul {
+	background-image:url("../img/baphomet_chakras_azul.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_verde {
+	background-image:url("../img/baphomet_chakras_verde.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_amarelo {
+	background-image:url("../img/baphomet_chakras_amarelo.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_laranja {
+	background-image:url("../img/baphomet_chakras_laranja.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_vermelho {
+	background-image:url("../img/baphomet_chakras_vermelho.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_fundo {
+	background-image:url("../img/baphomet_chakras_fundo.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+
