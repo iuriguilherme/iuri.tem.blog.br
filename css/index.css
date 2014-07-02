@@ -75,51 +75,71 @@ hr {
 	box-shadow:0em 0em 2em 0.5em rgba(0,0,0,0.5);
 }
 .baphomet img {
-	max-width:128px;
+	/*max-width:128px;*/
 	max-height:128px;
 }
-li.li_topo {
-	background-image:url("../img/baphomet_chakras_topo.png");
+li.li_01 {
+	background-image:url("../img/baphomet_01.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_branco {
-	background-image:url("../img/baphomet_chakras_branco.png");
+li.li_02 {
+	background-image:url("../img/baphomet_02.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_indigo {
-	background-image:url("../img/baphomet_chakras_indigo.png");
+li.li_03 {
+	background-image:url("../img/baphomet_03.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_azul {
-	background-image:url("../img/baphomet_chakras_azul.png");
+li.li_04 {
+	background-image:url("../img/baphomet_04.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_verde {
-	background-image:url("../img/baphomet_chakras_verde.png");
+li.li_05 {
+	background-image:url("../img/baphomet_05.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_amarelo {
-	background-image:url("../img/baphomet_chakras_amarelo.png");
+li.li_06 {
+	background-image:url("../img/baphomet_06.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_laranja {
-	background-image:url("../img/baphomet_chakras_laranja.png");
+li.li_07 {
+	background-image:url("../img/baphomet_07.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_vermelho {
-	background-image:url("../img/baphomet_chakras_vermelho.png");
+li.li_08 {
+	background-image:url("../img/baphomet_08.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
-li.li_fundo {
-	background-image:url("../img/baphomet_chakras_fundo.png");
+li.li_09 {
+	background-image:url("../img/baphomet_09.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_10 {
+	background-image:url("../img/baphomet_10.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_11 {
+	background-image:url("../img/baphomet_11.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_12 {
+	background-image:url("../img/baphomet_12.png");
+	background-position:100% 100%;
+	background-size:100% 100%;
+}
+li.li_13 {
+	background-image:url("../img/baphomet_13.png");
 	background-position:100% 100%;
 	background-size:100% 100%;
 }
