@@ -1,0 +1,5 @@
+---
+title: "Início"
+categories: noticia
+---
+Se isto estiver na página inicial de [iuri.blog.br](http://iuri.blog.br), então eu estou publicando através do [repositório do Github](https://github.com/iuriguilherme/iuri.blog.br/).
