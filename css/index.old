@@ -1,0 +1,115 @@
+@charset 'UTF-8';
+/*
+	Copyleft 2013 iuri.blog.br
+	Licença disponí­vel em http://iuri.blog.br/sobre/
+*/
+body {
+	text-align:center;
+}
+hr {
+	width:80%;
+}
+
+/* cabeçalho */
+.menu a {
+	padding:0.5em;
+	text-decoration:none;
+}
+.menu li {
+	background-color:#D02121;
+	border:0.1em solid white;
+	-moz-border-radius:1em;
+	-webkit-border-radius:1em;
+	-opera-border-radius:1em;
+	-khtml-border-radius:1em;
+	border-radius:1em;
+	-moz-box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	box-shadow:inset 0em 0em 0.5em 0.5em rgba(0,0,0,0.5);
+	border-collapse: separate;
+}
+.menu a li ul {
+	padding-left:1em;
+	padding-right:1em;
+}
+
+/* chakras */
+.chakras {
+	padding:1em;
+	padding-left:5em;
+	padding-right:5em;
+}
+.chakras a {
+	text-decoration:none;
+}
+.chakras ul li {
+	text-align:left;
+}
+.chakras span {
+	font-size:xx-large;
+}
+
+/* baphomet */
+.baphomet {
+  background-image:url("../img/baphomet_redux.png");
+  background-position:100% 100%;
+  background-size:100% 100%;
+  height:100%;
+  width:100%;
+  text-align:center;
+}
+ul {
+  padding-top:10em;
+  padding-bottom:20em;
+  text-align:center;
+}
+li {
+  list-style-type:none;
+  text-align:center;
+  padding-top:1em;
+  padding-bottom:1em;
+}
+a {
+  border-radius:100%;
+  text-decoration:none;
+  height:100%
+  width:100%
+  max-height:256px;
+  max-width:256px;
+  padding:1em;
+}
+a:hover {
+  box-shadow:inset 0em 0em 2em 0.5em rgba(0,0,0,0.5);
+}
+a:active {
+  box-shadow:0em 0em 2em 0.5em rgba(0,0,0,0.5);
+}
+a.branco {
+  background-image:url("../img/branco_256.png");
+  background-size:100% 100%;
+}
+a.indigo {
+  background-image:url("../img/indigo_256.png");
+  background-size:100% 100%;
+}
+a.azul {
+  background-image:url("../img/azul_256.png");
+  background-size:100% 100%;
+}
+a.verde {
+  background-image:url("../img/verde_256.png");
+  background-size:100% 100%;
+}
+a.amarelo {
+  background-image:url("../img/amarelo_256.png");
+  background-size:100% 100%;
+}
+a.laranja {
+  background-image:url("../img/laranja_256.png");
+  background-size:100% 100%;
+}
+a.vermelho {
+  background-image:url("../img/vermelho_256.png");
+  background-size:100% 100%;
+}
+
