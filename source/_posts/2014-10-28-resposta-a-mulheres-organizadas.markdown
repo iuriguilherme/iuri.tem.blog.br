@@ -46,6 +46,6 @@ Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem d
 
 Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E as pessoas arrumam meios pra desperdiçar sua energia gritando em frente a prédios vazios ou disparando sozinhas(os) em redes sociais que sofrem a síndrome de echo chamber.
 
-[1]: [](/blog/frase-1/)
-[2]: [](/blog/frase-2/)
+[1]: </blog/frase-1/>
+[2]: </blog/frase-2/>
 
