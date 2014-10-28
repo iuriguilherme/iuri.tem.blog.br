@@ -101,3 +101,11 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
