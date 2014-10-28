@@ -40,7 +40,7 @@ Desde já admito que sou privilegiado porque eu tenho barba e falo mais alto. Da
 
 ## Conclusão
 
-Espero sinceramente que qualquer ato político tenha por consequência motivar pessoas a tomarem atitudes para que crimes de estupro sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do exame de corpo em delito, acompanhe o processo judicial e garanta que seja feita “justiça” - segundo o conceito cristão, não o satânico.
+Espero sinceramente que qualquer ato político tenha por consequência motivar pessoas a tomarem atitudes para que crimes de estupro sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do exame de corpo em delito, acompanhe o processo judicial e garanta que seja feita “justiça” - não a justiça do [terceiro mandamento satânico](http://www.mortesubita.org/satanismo/textos-satanicos/os-dez-mandamentos-satanicos/).
 
 Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem de forma reagente com aquela postura de vingança quando acontece alguma coisa, lincham gente em praça pública se for necessário, se pautam pelo ódio promovido pelos meios de comunicação de massa - como por exemplo a mídia burguesa ou a rede social da burguesia, o feissebuqui - e pouca gente ou quase ninguém se preocupa em apurar os fatos, acompanhar o processo, estudar o caso e usar o conhecimento obtido a custo de sofrimento para tomar ações no futuro.
 
