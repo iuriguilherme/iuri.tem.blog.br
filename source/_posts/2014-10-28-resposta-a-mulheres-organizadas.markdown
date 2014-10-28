@@ -24,7 +24,9 @@ Mas como eu disse, eu concordo que o juiz está aliviando demais. Então vou dec
 
 Eu não quero ter um estupro de crédito. Eu não quero ter o direito institucional de estuprar alguém. Não quero ter o direito de cometer um erro desta natureza impunemente. Ainda mais com a idade que eu tenho, que é quase igual à do réu em questão.
 
-Eu sou a favor de errar e aprender, mas sempre digo que tem coisa que não tem volta e este é o tipo de situação que exige atenção social e posicinamento das pessoas que não tem absolutamente nada a ver com o fato. Como eu, por exemplo. É provável que eu nunca estupre ninguém, é provável que eu nunca seja estuprado. Não conheço a vítima, tampouco os réus. Eu realmente não me importo com isto e não tenho nenhuma relação com esta situação. Não é problema meu. Mas eu tenho que me posicionar porque é o tipo de coisa que quem tem relação não consegue resolver sozinho. Então para fins didáticos, e para a polícia léxica que critica minha forma de construir frases, dadas as circunstâncias, sim, é problema meu e eu me importo. [1]
+{% pullquote %}
+Eu sou a favor de errar e aprender, mas sempre digo que tem coisa que não tem volta e este é o tipo de situação que exige atenção social e posicinamento das pessoas que não tem absolutamente nada a ver com o fato. Como eu, por exemplo. É provável que eu nunca estupre ninguém, é provável que eu nunca seja estuprado. Não conheço a vítima, tampouco os réus. Eu realmente não me importo com isto e não tenho nenhuma relação com esta situação. Não é problema meu. Mas eu tenho que me posicionar porque é o tipo de coisa que quem tem relação não consegue resolver sozinho. Então para fins didáticos, e para a polícia léxica que critica minha forma de construir frases, {" dadas as circunstâncias, sim, é problema meu e eu me importo "}. [1]
+{% endpullquote %}
 
 ## Crítica pontual
 
