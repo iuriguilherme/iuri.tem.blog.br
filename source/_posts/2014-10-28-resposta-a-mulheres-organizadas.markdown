@@ -2,6 +2,7 @@
 title: "Resposta a Mulheres Organizadas Combatendo a Violência Contra a Mulher"
 categories: política
 tags: [feminismo, posição, facebook]
+updated: 2014-10-29 10:04
 ---
 
 ## Motivação
@@ -38,13 +39,15 @@ Eu sou a favor de errar e aprender, mas sempre digo que tem coisa que não tem v
 
 Mas eu quero comentar sobre este posicionamento especificamente: <https://www.facebook.com/photo.php?fbid=374403619382835&set=gm.856417871058637>
 
-Este texto traz novamente uma situação que eu considero sexista e critico as feministas radicais que utilizam esta técnica. Eu entendo perfeitamente que existem motivos racionais, políticos, filosóficos e culturais para isto. Considero legítima esta tática de "botar os homens apoiadores do feminismo no seu devido lugar", ou seja lá como queiram definir esta postura. Eu quero sinceramente que isto continue evoluindo e considero válido. Entretanto, em decorrência da minha posição, meu dever é questionar e criticar isto. [citação][2]
+{% pullquote %}
+Este texto traz novamente uma situação que eu considero sexista e critico as feministas radicais que utilizam esta técnica. Eu entendo perfeitamente que existem motivos racionais, políticos, filosóficos e culturais para isto. Considero legítima esta tática de "botar os homens apoiadores do feminismo no seu devido lugar", ou seja lá como queiram definir esta postura. Eu quero sinceramente que isto continue evoluindo e considero válido. Entretanto, em decorrência da minha posição, meu dever é questionar e criticar isto. {" Se eu fosse contra, eu não criticaria, porque a tática que eu normalmente uso para minimizar e combater o que eu não concordo é ignorar. Se eu critico, é porque apoio. "}
 
-Eu me considero um apoiador do feminismo radical nesta situação porque questionei a decisão do juiz providenciando argumentos acim no texto acima.
+Eu me considero um apoiador do feminismo radical nesta situação porque questionei a decisão do juiz providenciando argumentos no texto acima.
 
 Para fins de definição, qualquer que seja a pessoa que decide tomar partido em qualquer causa é apoiador(a). Só é protagonista quem está intrinsecamente relacionado com a situação, que neste caso é uma única pessoa que é a adolescente vítima do estupro. Todas mulheres e homens que se solidarizarem com isto são apoiadoras(es) e não protagonistas.
 
 Desde já admito que sou privilegiado porque eu tenho barba e falo mais alto. E posso andar sem camiseta nas ruas de Porto Alegre no verão. É daí que eu tiro as condições necessárias para ter coragem de vir aqui e criticar afirmações feitas por quem se declara feminista radical. Provavelmente se eu tivesse mais características de um oprimido eu não teria tanta disposição. Isto é o que o vulgo machista chama de “ter colhões”. O que não significa que eu vou ficar quieto e deixar só as mulheres falarem o que bem entendem. Porque eu ainda to respirando e vou atormentar quem quer que seja.
+{% endpullquote %}
 
 ## Conclusão
 
