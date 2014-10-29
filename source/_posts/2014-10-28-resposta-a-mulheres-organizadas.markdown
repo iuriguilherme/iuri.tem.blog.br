@@ -21,7 +21,7 @@ Eu não sou a favor de promover e apoiar reação, porque isto incentiva uma cul
 
 ## Minha posição
 
-Em segundo lugar vou dar o meu posicionamento sobre o fato que gerou esta reação das feministas, que foi o estupro de uma adolescente próximo à antiga Usina do Gasômetro no dia das crianças de 2014 em Porto Alegre. Fiz uma compilação aberta das notícias relevantes em um [subreddit][3].
+Em segundo lugar vou dar o meu posicionamento sobre o fato que gerou esta reação das feministas, que foi o estupro de uma adolescente próximo à antiga Usina do Gasômetro no dia das crianças de 2014 em Porto Alegre. Fiz uma compilação aberta das notícias relevantes em um [subreddit][1].
 
 Na verdade, ao contrário do que afirmam alguns jornais e alguns grupos feministas, o réu não escapou da prisão. (Quero deixar claro que o evento do facebook acima citado **não** é relevante para esta argumentação, estou usando o [clipping de notícias do reddit][3] como embasamento.) O que aconteceu é que o juiz determinou que ele respondesse em liberdade provisória com algumas restrições e determinações até que se comprove clinicamente o crime de estupro. O que em si já é concordo que é revoltante, mas do jeito que as coisas estão sendo colocadas (pela mídia burguesa de massa e pelas pessoas despolitizadas do facebook - novamente lamento por não ter o mapa destas pessoas pra mostrar aqui) até parece que o cara certamente sairá impune e precisamos chamar a "justiça popular". Como eu afirmei antes, não sou a favor de combater ódio contra ódio, embora eu mesmo caia neste erro às vezes.
 
@@ -79,6 +79,4 @@ Convenientemente, agora mesmo alguém me mandou este [link](http://seashepherd.o
 
 Estou sempre torcendo para ser surpreendido e acompanhando **movimento** em todo lugar.
 
-[1]: </blog/frase-1/>
-[2]: </blog/frase-2/>
-[3]: <http://reddit.com/r/EstuproGasometro>
+[1]: <http://reddit.com/r/EstuproGasometro>
