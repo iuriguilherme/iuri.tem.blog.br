@@ -11,6 +11,8 @@ Respeitando meu direito de ser incoerente com meu discurso e reconhecendo a vali
 
 O grupo que se identifica como "Mulheres Organizadas Combatendo a Violência Contra a Mulher" criou um evento na rede social da burguesia fascista, que é o meio de comunicação em massa atual no Brasil, que tem como título "Ato -Estupradores Não Passarão" e está no endereço: <https://www.facebook.com/events/855095524524205/>
 
+Esta publicação **não** é sobre este evento. Utiliza ele simplesmente como ilustração para justificar porque é que eu estou escrevendo sobre isto.
+
 ## Justificativa e disclaimer
 
 Em primeiro lugar quero declarar que não vou reproduzir o conteúdo do evento tampouco das outras coisas que estou citando porque não concordo com a ação proposta.
