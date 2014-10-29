@@ -2,7 +2,10 @@
 title: "Resposta a Mulheres Organizadas Combatendo a Violência Contra a Mulher"
 categories: política
 tags: [feminismo, posição, facebook]
-updated: 2014-10-29 10:08
+updated: 2014-10-29 10:42
+comments: true
+sharing: true
+footer: true
 ---
 
 ## Motivação
@@ -82,5 +85,49 @@ Como eu resumi em algum parágrafo anterior, desperdiçar energia não é uma bo
 Convenientemente, agora mesmo alguém me mandou este [link](http://seashepherd.org.br/equipamentos-de-campo-do-issb-sao-roubados-durante-operacao-no-litoral-do-rs/) que relata a ação de ecoativistas gaúchas(os). Para as ativistas que não querem depender da organização da conjuntura feminista, é um bom texto.
 
 Estou sempre torcendo para ser surpreendido e acompanhando **movimento** em todo lugar.
+
+## Repercussão
+
+### Censura
+
+O link para esta publicação foi apagado do evento do facebook em questão, assim como todos meus comentários. Como é de costume. A maioria das pessoas se escondem atrás de grupos inexistentes, para fazer parecer que são muitas, quando na verdade geralmente é só uma pessoa falando sozinha. E todo mundo que tiver uma opinião divergente geralmente é convidado a se retirar.
+
+Isto faz absoluto sentido. Eu não deixo ninguém escrever na [Igreja Universal do Reino do IURI](http://iuri.blog.br/). Não posso me vangloriar por ser honesto e declarar explicitamente que aqui é o **meu** território. Eu não tenho nada contra quem se traveste de coletivo e mente que é aberto a críticas, opiniões e é a favor da democracia e liberdade de expressão.
+
+Não tenho nada contra quem cria "espaços abertos, independentes e autônomos" só pra monopolizar um microfone e usar adeptos como massa de manobra para fortalecer as *suas* opiniões pessoais. Eu só prefiro ser honesto e não faço isto.
+
+### Fortalecimento
+
+As seguintes réplicas à minha intervenção foram de suma importância e me ajudaram a corrigir vários problemas na versão original desta publicação, e reproduzi-las-ei aqui:
+
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856599867707104) [autora](https://www.facebook.com/profile.php?id=100004396006680)
+> Iuri,
+Tu não deve ter lido a descrição do grupo.
+E mesmo assim teve a infeliz ideia de fazer um texto enorme sobre o nosso ato.
+Primeiro:
+Não falamos em nenhum momento em justiça com as próprias mãos ou vingança.
+Segundo:
+Não colocamos que o estuprador escapou da prisão,
+Está escrito na descrição do evento que o juiz liberou ele por ser réu primário.
+Então todo o teu texto perde o sentindo :)
+> 
+Fique a vontade para NÃO dar opiniões vazias e sem fundamento algum,
+NÃO minimizar sofrimento que tu não entende
+E NÃO vir mais com mansplaining no nossa ato.
+
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856638067703284) [autora](https://www.facebook.com/bruna.trus)
+> Iuri, e qual a tua sugestão pra isso que estamos vivendo? Porque todas sabem que não é SÓ esse caso, exclusivo dessa guria, que o estuprador foi solto. Então te pergunto, qual a tua sugestão? Ficar em casa sentado e torcendo pra tudo dar certo? Se apegar no discurso de "esse ato é linchamento" e não fazer nada, torcendo pra que a boa vontade da justiça (que é FALHA principalmente nesses casos) se manifeste? Ninguém aqui é favor de decapitar cabeça em praça pública. Ninguém aqui quer linchar com as próprias mãos. Esse evento, além de tudo, é pra reforçar nosso combate a essa cruel cultura que é a do estupro e que todos os dias, infelizmente, nos mostra o quão necessária é a nossa movimentação.
+
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856815781018846) [autora](https://www.facebook.com/profile.php?id=100004396006680)
+> Sabe porque eu achei que era sobre o nosso evento?
+Porque ta escrito ''Resposta a Mulheres organizadas Combatendo a Violência contra a Mulher''
+> 
+Mas enfim, essa discussão não ta fazendo o MENOR sentido
+Tu ''refuta'' coisas que não falei
+e que não estão presentes aqui... ta um papo meio esquizofrênico.
+Então só pra tu saber, pra não abrir espaço pra desconstrução vazia aqui dentro
+Eu vou apagar.
+> 
+Se alguém tiver coisas construtivas e que ajudem a combater a violência contra a mulher fiquem a vontade para se expressar.
 
 [1]: <http://reddit.com/r/EstuproGasometro>
