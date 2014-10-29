@@ -2,7 +2,7 @@
 title: "Resposta a Mulheres Organizadas Combatendo a Violência Contra a Mulher"
 categories: política
 tags: [feminismo, posição, facebook]
-updated: 2014-10-29 11:25
+updated: 2014-10-29 11:59
 comments: true
 sharing: true
 footer: true
