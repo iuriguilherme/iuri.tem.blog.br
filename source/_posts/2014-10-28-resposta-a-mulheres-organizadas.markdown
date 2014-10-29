@@ -143,9 +143,27 @@ Não tenho nada contra quem cria "espaços abertos, independentes e autônomos" 
 
 Tentei inutilmente debater e contrapor os argumentos colocados, mas a minha suspeita de que o evento era uma espécie de casinha da Barbie que iria ser defendida a todo custo foi confirmada. Para quem não conhece, nós portoalegrenses temos a cultura do [fascismo](https://pt.wikipedia.org/wiki/Fascismo) arraigada e somos intolerantes com quem tenta derrubar nossos castelos de areia, porque as migalhas que nos agarramos é tudo o que temos. É mais ou menos assim que nos segregamos e promovemos a desunião, para que nossos [pequenos tiranos](http://www.metro.org.br/es/editor/os-pequenos-tiranos) nos dividam e nos dominem. Mas tem coisas piores, com o tempo eu documento tudo.
 
-Só estou dedicando meu tempo a isto desta vez porque uma [adolescente foi estuprada no meu território][1] e isto para mim é inaceitável.
+Tentei também entender o motivo da censura, contudo, não fui capaz de estabelecer diálogo consistente em tempo hábil. O que eu consegui foi irritar a responsável pelo evento. Ela demonstrou claramente e também declarou explicitamente que estava apagando minhas publicações porque achava que eu estava atrapalhando. Presumo que ela não estava tentando me entender tampouco dialogar, estava tentando defender o espaço que ela entendia como privativo e exclusivo para expressões aprovadas por ela.
 
+Depois disto, a autora resolveu bloquear o acesso da [conta que eu estava usando](http://iuri.neocities.org/paginas.html#facebook) ao conteúdo, teoricamente me impedindo de responder. É óbvio que isto não me impede de visualizar e responder, se eu quiser. Agora se eu quiser continuar vou ter que criar um perfil falso que atenda às expectativas impostas. Porque honestidade e autenticidade, como é de costume, nunca funciona com essa gente. Mas já é muito tempo de dedicação eu usar meu [perfil "oficial"](http://iuri.neocities.org/paginas.html#facebook).
+
+## Reflexão
+
+{% pullquote %}
 As críticas ao feminismo que eu tenho visto são geralmente desinformadas e quase sempre trazem o machismo de carona.
+
+Eu tenho um perfil agressivo e tenho firmeza e coerência suficientes para enfrentar corajosamente e não baixar a cabeça pra ninguém. Seja feminista, machista, mulher, homem, não importa. Também tenho capacidade de respeitar e compreender o trabalho de qualquer pessoa ou grupo que faça as coisas. Então estou em uma posição de competência para criticar ações de grupos que se afirmam como feministas, ou qualquer outro grupo político.
+
+Eu vou continuar construindo e melhorando meu discurso porque é isto que eu faço e esta é a minha forma de ajudar. Agora eu não reconheço a autoridade de ninguém pra me acusar de minimizar o sofrimento alheio, me acusar de atrapalhar o trabalho alheio.
+
+De fato, {" eu reconheço e identifico autoridade quando eu vejo "}. Quando eu faço isto eu cumprimento e demonstro subordinação.
+
+Movimentos políticos provavelmente tem na crítica o único alimento possível. Se for depender de esperar alguém ser estuprada pra podermos fazer alguma coisa, daqui a pouco vai ter feminista arranjando estupros para justificar a necessidade de sua militância. Como eu disse antes, a gente afirma coisas com embasamento, dados e fatos. O óbvio cabe à interpretação do público.
+
+Então eu tenho convicção que criticar é uma forma de contribuir, colaborar e apoiar qualquer movimento político. Eu gosto disto porque geralmente o que acontece é o que aconteceu neste caso. Eu sou censurado, recriminado, expurgado, expulso, dissuadido, vilipendiado se for necessário, e dificilmente recebo reconhecimento. Exatamente da forma que eu preconizo que deveriam ser as coisas.
+{% endpullquote %}
+
+Normalmente eu simplesmente ignoro eventos de feissebuqui, só dediquei meu tempo a isto desta vez porque uma [adolescente foi estuprada no meu território][1] e isto para mim é inaceitável.
 
 [1]: https://www.facebook.com/events/855095524524205/
 [2]: http://reddit.com/r/EstuproGasometro
