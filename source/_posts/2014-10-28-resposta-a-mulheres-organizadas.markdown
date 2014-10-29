@@ -2,7 +2,7 @@
 title: "Resposta a Mulheres Organizadas Combatendo a Violência Contra a Mulher"
 categories: política
 tags: [feminismo, posição, facebook]
-updated: 2014-10-29 10:42
+updated: 2014-10-29 11:05
 comments: true
 sharing: true
 footer: true
@@ -12,15 +12,15 @@ footer: true
 
 Respeitando meu direito de ser incoerente com meu discurso e reconhecendo a validade do Facebook como instrumento de divulgação de idéias e espaço de ativismo político unidirecional.
 
-O grupo que se identifica como "Mulheres Organizadas Combatendo a Violência Contra a Mulher" criou um evento na rede social da burguesia fascista, que é o meio de comunicação em massa atual no Brasil, que tem como título "Ato -Estupradores Não Passarão" e está no endereço: <https://www.facebook.com/events/855095524524205/>
+O grupo que se identifica como "Mulheres Organizadas Combatendo a Violência Contra a Mulher" criou um evento na rede social da burguesia fascista, que é o meio de comunicação em massa atual no Brasil, que tem como título "[Ato -Estupradores Não Passarão][1]".
 
-Esta publicação **não** é sobre este evento. Utiliza ele simplesmente como ilustração para justificar porque é que eu estou escrevendo sobre isto.
+Esta publicação **não** é sobre este [evento][1]. Utiliza ele simplesmente como ilustração para justificar porque é que eu estou escrevendo sobre isto.
 
 ## Justificativa e disclaimer
 
-Em primeiro lugar quero declarar que não vou reproduzir o conteúdo do evento tampouco das outras coisas que estou citando porque não concordo com a ação proposta.
+Em primeiro lugar quero declarar que não vou reproduzir o conteúdo do [evento][1] tampouco das outras coisas que estou citando porque não concordo com a ação proposta, e portanto, não faço propaganda.
 
-O posicionamento explicitado no manifesto deste evento de facebook envolve um conceito de justiça vingativa e reagente. Não estou dizendo que este é o único motivo que me faz não querer comparecer na provável manifestação decorrente de uma chamada de evento no facebook. Também não estou afirmando que este é o total escopo da proposta apresentada. Estou sim, afirmando que a existência e motivação do evento referido é um reflexo de uma sociedade reagente, não apresentando nenhum elemento novo e nenhuma proposta concreta para mudança da situação, a não ser o óbvio e previsível que é de se esperar de uma sociedade que não age, reage.
+O posicionamento explicitado no manifesto deste [evento de facebook][1] envolve um conceito de justiça vingativa e reagente. Não estou dizendo que este é o único motivo que me faz não querer comparecer na provável manifestação decorrente de uma chamada de evento no facebook. Também não estou afirmando que este é o total escopo da proposta apresentada. Estou sim, afirmando que a existência e motivação do evento referido é um reflexo de uma sociedade reagente, não apresentando nenhum elemento novo e nenhuma proposta concreta para mudança da situação, a não ser o óbvio e previsível que é de se esperar de uma sociedade que não age, reage.
 
 Eu não sou a favor de promover e apoiar reação, porque isto incentiva uma cultura de vingança que eu não quero fazer parte. Se toda a população fosse seguir este conceito de justiça e revindicar o que é seu de direito, ao mesmo tempo, finalmente a raça humana seria auto dizimada. E eu quero viver. Novamente, não estou reduzindo ao escopo do evento citado. Eu não consegui mapear todas as declarações revoltosas e indignadas que eu vi em vários pontos. Mas a(o) leitor(a) atenta(o) sabe exatamente do que é que eu estou falando. E deve estar raivosa(o) porque eu consigo olhar isto como observador externo e é natural isto.
 
@@ -28,13 +28,17 @@ Eu não sou a favor de promover e apoiar reação, porque isto incentiva uma cul
 
 ## Minha posição
 
-Em segundo lugar vou dar o meu posicionamento sobre o fato que gerou esta reação das feministas, que foi o estupro de uma adolescente próximo à antiga Usina do Gasômetro no dia das crianças de 2014 em Porto Alegre. Fiz uma compilação aberta das notícias relevantes em um [subreddit][1].
+Em segundo lugar vou dar o meu posicionamento sobre o fato que gerou esta reação das feministas, que foi o estupro de uma adolescente próximo à antiga Usina do Gasômetro no dia das crianças de 2014 em Porto Alegre. Fiz uma compilação aberta das notícias referentes a este assunto em um [subreddit][2].
 
-Na verdade, ao contrário do que afirmam alguns jornais e alguns grupos feministas, o réu não escapou da prisão. (Quero deixar claro que o evento do facebook acima citado **não** é relevante para esta argumentação, estou usando o [clipping de notícias do reddit][3] como embasamento.) O que aconteceu é que o juiz determinou que ele respondesse em liberdade provisória com algumas restrições e determinações até que se comprove clinicamente o crime de estupro. O que em si já é concordo que é revoltante, mas do jeito que as coisas estão sendo colocadas (pela mídia burguesa de massa e pelas pessoas despolitizadas do facebook - novamente lamento por não ter o mapa destas pessoas pra mostrar aqui) até parece que o cara certamente sairá impune e precisamos chamar a "justiça popular". Como eu afirmei antes, não sou a favor de combater ódio contra ódio, embora eu mesmo caia neste erro às vezes.
+{% pullquote %}
+Na verdade, ao contrário do que afirmam alguns [jornais e alguns grupos feministas][2], o réu não escapou da prisão. (Quero deixar claro que o [evento do facebook][1] acima citado **não** é relevante para esta argumentação, estou usando o [clipping de notícias do reddit][2] como embasamento.)
+
+O que aconteceu é que o juiz determinou que ele respondesse em liberdade provisória com algumas restrições e determinações até que se comprove clinicamente o crime de estupro. O que em si já é concordo que é revoltante, mas do jeito que as coisas estão sendo colocadas (pela [mídia burguesa de massa e pelas pessoas despolitizadas do facebook][2] - novamente lamento por não ter o mapa destas pessoas pra mostrar aqui) até parece que o cara certamente sairá impune e precisamos chamar a "justiça popular". Como eu afirmei antes, {" não sou a favor de combater ódio contra ódio, embora eu mesmo caia neste erro às vezes "}.
 
 Quero explanar que há várias formas de disseminar o ódio, e na maioria das vezes isto é feito de forma involuntária e inconsciente. Eu faço muito isto e em todas as vezes preciso que outras pessoas me critiquem, ou de registros audiovisuais que eu mesmo faço de mim para poder refletir sobre minhas atitudes. Se tu tem dúvidas, se tu te incomoda com o que eu escrevo, se existe espaço pra refletir sobre isto na tua mente, é porque tem ódio no teu coração. E se tu tentar fugir disto negando, sublimando, justificando, diminuindo, tu já perdeu pro ódio e não vai conseguir ver ele te controlar. Sede humilde e aprende com teu ódio. Conhecimento é poder.
+{% endpullquote %}
 
-Mas como eu disse, eu concordo que o juiz está aliviando demais. Então vou declarar minha posição. O que o juiz conseguiu com esta decisão, talvez mais em decorrência da repercussão do que de sua própria vontade, é mandar um recado para mim, que ainda não estuprei ninguém, que eu tenho um estupro de crédito. Afinal, na eventualidade de eu ser pego em flagrante, eu seria réu primário. Isto também significa que todos estupros em que eu não fosse levado à justiça antes da primeira vez que a polícia me autuasse em flagrante, seriam desconsiderados para efeito da decisão do juiz. Já é informação suficiente para, se fosse do meu interesse, encontrar adeptos do crime organizado contra as mulheres e debater táticas e estratégias de violência.
+Mas como eu disse, eu concordo que o juiz está aliviando demais. Então vou declarar minha posição. O que o juiz conseguiu com [esta decisão][2], talvez mais em decorrência da [repercussão][2] do que de sua própria vontade, é mandar um recado para mim, que ainda não estuprei ninguém, que eu tenho um estupro de crédito. Afinal, na eventualidade de eu ser pego em flagrante, eu seria réu primário. Isto também significa que todos estupros em que eu não fosse levado à justiça antes da primeira vez que a polícia me autuasse em flagrante, seriam desconsiderados para efeito da decisão do juiz. Já é informação suficiente para, se fosse do meu interesse, encontrar adeptos do crime organizado contra as mulheres e debater táticas e estratégias de violência.
 
 Eu não quero ter um estupro de crédito. Eu não quero ter o direito institucional de estuprar alguém. Não quero ter o direito de cometer um erro desta natureza impunemente. Ainda mais com a idade que eu tenho, que é quase igual à do réu em questão.
 
@@ -58,11 +62,13 @@ Desde já admito que sou privilegiado porque eu tenho barba e falo mais alto. E 
 
 ## Conclusão
 
-Espero sinceramente que qualquer ato político, ou evento do facebook, tenha por consequência motivar pessoas a tomarem atitudes para que crimes de estupro sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do exame de corpo em delito, acompanhe o processo judicial e garanta que seja feita “justiça” - não a justiça do [terceiro mandamento satânico](http://www.mortesubita.org/satanismo/textos-satanicos/os-dez-mandamentos-satanicos/).
+{% pullquote %}
+Espero sinceramente que qualquer ato político, ou [evento de facebook][1], tenha por consequência motivar pessoas a tomarem atitudes para que [crimes de estupro][2] sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do [exame de corpo em delito][2], acompanhe o [processo judicial][2] e garanta que seja feita “justiça” - não a justiça do [terceiro mandamento satânico](http://www.mortesubita.org/satanismo/textos-satanicos/os-dez-mandamentos-satanicos/).
 
-Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem de forma reagente com aquela postura de vingança quando acontece alguma coisa, lincham gente em praça pública se for necessário, se pautam pelo ódio promovido pelos meios de comunicação de massa - como por exemplo a mídia burguesa ou a rede social da burguesia, o feissebuqui - e pouca gente ou quase ninguém se preocupa em apurar os fatos, acompanhar o processo, estudar o caso e usar o conhecimento obtido a custo de sofrimento para tomar ações no futuro.
+Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem de forma reagente com aquela postura de vingança quando acontece alguma coisa, lincham gente em praça pública se for necessário, se pautam pelo ódio promovido pelos meios de comunicação de massa - como por exemplo a mídia burguesa ortodoxa ou mesmo a moderna rede social da burguesia, o feissebuqui - e pouca gente ou quase ninguém se preocupa em apurar os fatos, acompanhar o processo, estudar o caso e usar o conhecimento obtido a custo de sofrimento para tomar ações no futuro.
 
-Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E as pessoas arrumam meios pra desperdiçar sua energia gritando em frente a prédios vazios ou disparando sozinhas(os) em redes sociais sujeitas e pautadas pela síndrome de [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29).
+Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E {" as pessoas arrumam meios pra desperdiçar sua energia gritando sozinhas "} em frente a prédios vazios ou em redes sociais sujeitas e pautadas pela síndrome de [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29).
+{% endpullquote %}
 
 ## Sugestão
 
@@ -100,7 +106,6 @@ Não tenho nada contra quem cria "espaços abertos, independentes e autônomos" 
 
 As seguintes réplicas à minha intervenção foram de suma importância e me ajudaram a corrigir vários problemas na versão original desta publicação, e reproduzi-las-ei aqui:
 
-[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856599867707104) [autora](https://www.facebook.com/profile.php?id=100004396006680)
 > Iuri,
 Tu não deve ter lido a descrição do grupo.
 E mesmo assim teve a infeliz ideia de fazer um texto enorme sobre o nosso ato.
@@ -114,11 +119,13 @@ Então todo o teu texto perde o sentindo :)
 Fique a vontade para NÃO dar opiniões vazias e sem fundamento algum,
 NÃO minimizar sofrimento que tu não entende
 E NÃO vir mais com mansplaining no nossa ato.
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856599867707104)
+[autora][3]
 
-[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856638067703284) [autora](https://www.facebook.com/bruna.trus)
 > Iuri, e qual a tua sugestão pra isso que estamos vivendo? Porque todas sabem que não é SÓ esse caso, exclusivo dessa guria, que o estuprador foi solto. Então te pergunto, qual a tua sugestão? Ficar em casa sentado e torcendo pra tudo dar certo? Se apegar no discurso de "esse ato é linchamento" e não fazer nada, torcendo pra que a boa vontade da justiça (que é FALHA principalmente nesses casos) se manifeste? Ninguém aqui é favor de decapitar cabeça em praça pública. Ninguém aqui quer linchar com as próprias mãos. Esse evento, além de tudo, é pra reforçar nosso combate a essa cruel cultura que é a do estupro e que todos os dias, infelizmente, nos mostra o quão necessária é a nossa movimentação.
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856638067703284)
+[autora](https://www.facebook.com/bruna.trus)
 
-[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856815781018846) [autora](https://www.facebook.com/profile.php?id=100004396006680)
 > Sabe porque eu achei que era sobre o nosso evento?
 Porque ta escrito ''Resposta a Mulheres organizadas Combatendo a Violência contra a Mulher''
 > 
@@ -129,5 +136,13 @@ Então só pra tu saber, pra não abrir espaço pra desconstrução vazia aqui d
 Eu vou apagar.
 > 
 Se alguém tiver coisas construtivas e que ajudem a combater a violência contra a mulher fiquem a vontade para se expressar.
+[permalink](https://www.facebook.com/events/855095524524205/permalink/856417871058637/?comment_id=856815781018846)
+[autora][3]
 
-[1]: <http://reddit.com/r/EstuproGasometro>
+Tentei inutilmente debater e contrapor os argumentos colocados, mas a minha suspeita de que o evento era uma espécie de casinha da Barbie que iria ser defendida a todo custo foi confirmada. Para quem não conhece, nós portoalegrenses temos a cultura do [fascismo](https://pt.wikipedia.org/wiki/Fascismo) arraigada e somos intolerantes com quem tenta derrubar nossos castelos de areia, porque as migalhas que nos agarramos é tudo o que temos. É mais ou menos assim que nos segregamos e promovemos a desunião, para que nossos [pequenos tiranos](http://www.metro.org.br/es/editor/os-pequenos-tiranos) nos dividam e nos dominem. Mas tem coisas piores, com o tempo eu documento tudo.
+
+Só estou dedicando meu tempo a isto desta vez porque uma [adolescente foi estuprada no meu território][1] e isto para mim é inaceitável.
+
+[1]: <https://www.facebook.com/events/855095524524205/>
+[2]: <http://reddit.com/r/EstuproGasometro>
+[3]: <https://www.facebook.com/profile.php?id=100004396006680>
