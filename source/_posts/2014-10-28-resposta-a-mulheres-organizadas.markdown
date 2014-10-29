@@ -2,7 +2,7 @@
 title: "Resposta a Mulheres Organizadas Combatendo a Violência Contra a Mulher"
 categories: política
 tags: [feminismo, posição, facebook]
-updated: 2014-10-29 10:04
+updated: 2014-10-29 10:08
 ---
 
 ## Motivação
@@ -55,7 +55,7 @@ Espero sinceramente que qualquer ato político, ou evento do facebook, tenha por
 
 Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem de forma reagente com aquela postura de vingança quando acontece alguma coisa, lincham gente em praça pública se for necessário, se pautam pelo ódio promovido pelos meios de comunicação de massa - como por exemplo a mídia burguesa ou a rede social da burguesia, o feissebuqui - e pouca gente ou quase ninguém se preocupa em apurar os fatos, acompanhar o processo, estudar o caso e usar o conhecimento obtido a custo de sofrimento para tomar ações no futuro.
 
-Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E as pessoas arrumam meios pra desperdiçar sua energia gritando em frente a prédios vazios ou disparando sozinhas(os) em redes sociais que sofrem a síndrome de echo chamber.
+Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E as pessoas arrumam meios pra desperdiçar sua energia gritando em frente a prédios vazios ou disparando sozinhas(os) em redes sociais sujeitas e pautadas pela síndrome de [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29).
 
 ## Sugestão
 
