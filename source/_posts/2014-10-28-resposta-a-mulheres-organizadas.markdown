@@ -19,6 +19,8 @@ O posicionamento explicitado no manifesto deste evento de facebook envolve um co
 
 Eu não sou a favor de promover e apoiar reação, porque isto incentiva uma cultura de vingança que eu não quero fazer parte. Se toda a população fosse seguir este conceito de justiça e revindicar o que é seu de direito, ao mesmo tempo, finalmente a raça humana seria auto dizimada. E eu quero viver. Novamente, não estou reduzindo ao escopo do evento citado. Eu não consegui mapear todas as declarações revoltosas e indignadas que eu vi em vários pontos. Mas a(o) leitor(a) atenta(o) sabe exatamente do que é que eu estou falando. E deve estar raivosa(o) porque eu consigo olhar isto como observador externo e é natural isto.
 
+<!-- more -->
+
 ## Minha posição
 
 Em segundo lugar vou dar o meu posicionamento sobre o fato que gerou esta reação das feministas, que foi o estupro de uma adolescente próximo à antiga Usina do Gasômetro no dia das crianças de 2014 em Porto Alegre. Fiz uma compilação aberta das notícias relevantes em um [subreddit][1].
