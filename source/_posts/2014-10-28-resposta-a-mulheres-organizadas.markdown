@@ -70,6 +70,8 @@ Isto não costuma acontecer através de eventos de facebook. Leva um tempo, tent
 
 Como eu resumi em algum parágrafo anterior, desperdiçar energia não é uma boa ideia. Insistir nos meios que deveriam funcionar, e de fato não funcionam, demanda tempo e engajamento. Indignação que não continua a gerar ações é desperdício de energia.
 
+Convenientemente, agora mesmo alguém me mandou este [link](http://seashepherd.org.br/equipamentos-de-campo-do-issb-sao-roubados-durante-operacao-no-litoral-do-rs/) que relata a ação de ecoativistas gaúchas(os). Para as ativistas que não querem depender da organização da conjuntura feminista, é um bom texto.
+
 Estou sempre torcendo para ser surpreendido e acompanhando **movimento** em todo lugar.
 
 [1]: </blog/frase-1/>
