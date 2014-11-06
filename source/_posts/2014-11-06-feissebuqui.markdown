@@ -20,6 +20,8 @@ Coisas como a cor das árvores e de suas folhas, a dicotomia do som dos carros e
 
 Então este texto é pra ti e porque tu quer. Porque assim quem sabe teus pensamentos não ficam zunindo a madrugada inteira na minha mente.
 
+![Prisão][1]
+
 <!-- more -->
 
 ## O cárcere velado
@@ -125,8 +127,9 @@ As pessoas se irritam comigo dizendo que eu critico mas não proponho alternativ
 
 Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu jeito impaciente solicitei encarecidamente que utilizasse e-mail. Não funcionou. O resultado está aqui:
 
-{% img [][1] "Conversa típica comigo no feissebuqui" %}
+{% img [][2] "Conversa típica comigo no feissebuqui" %}
 
 {% endpullquote %}
 
-[1]: /assets/facebookchat1.png
+[1]: ../assets/facebook_prisao.png
+[2]: ../assets/facebookchat1.png
