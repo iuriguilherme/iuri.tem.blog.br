@@ -16,7 +16,7 @@ O grupo que se identifica como "Mulheres Organizadas Combatendo a Violência Con
 
 Esta publicação **não** é sobre este [evento][1]. Utiliza ele simplesmente como ilustração para justificar porque é que eu estou escrevendo sobre isto.
 
-![Desenho de Débora Vaz][4]
+{% img http://iuri.tem.blog.br/assets/10349092_374403619382835_5556669514488916678_n.jpg "Desenho de Débora Vaz" %}
 
 ## Justificativa e disclaimer
 
