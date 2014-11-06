@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://iuri.blog.br
+url: http://iuri.tem.blog.br
 title: Igreja Universal do Reino do IURI
 subtitle: Ninguém te chamou aqui.
 author: Iuri Guilherme dos Santos Martins
-simple_search: https://duckduckgo.com/
+simple_search: https://duckduckgo.com/&
 description: I.U.R.I. - Igreja Universal do Reino do IURI
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -19,7 +19,7 @@ date_format: "%A, %F %T (%Z %z)"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: iuri@hush.ai
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -44,7 +44,7 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 10       # Posts in the sidebar Recent Posts section
-excerpt_link: "Leia tudo em &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_link: "Leia tudo &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
