@@ -16,7 +16,7 @@ O grupo que se identifica como "Mulheres Organizadas Combatendo a Violência Con
 
 Esta publicação **não** é sobre este [evento][1]. Utiliza ele simplesmente como ilustração para justificar porque é que eu estou escrevendo sobre isto.
 
-{% img http://iuri.tem.blog.br/assets/10349092_374403619382835_5556669514488916678_n.jpg "Desenho de Débora Vaz" %}
+{% img /assets/10349092_374403619382835_5556669514488916678_n.jpg "Desenho de Débora Vaz" %}
 
 ## Justificativa e disclaimer
 
@@ -168,4 +168,3 @@ Normalmente eu simplesmente ignoro eventos de feissebuqui, só dediquei meu temp
 [1]: https://www.facebook.com/events/855095524524205/
 [2]: http://reddit.com/r/EstuproGasometro
 [3]: https://www.facebook.com/profile.php?id=100004396006680
-[4]: ../assets/10349092_374403619382835_5556669514488916678_n.jpg

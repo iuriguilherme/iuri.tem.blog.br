@@ -20,7 +20,7 @@ Coisas como a cor das árvores e de suas folhas, a dicotomia do som dos carros e
 
 Então este texto é pra ti e porque tu quer. Porque assim quem sabe teus pensamentos não ficam zunindo a madrugada inteira na minha mente.
 
-{% img http://iuri.tem.blog.br/assets/facebook_prisao.png "Prisão" %}
+{% img /assets/facebook_prisao.png "Prisão" %}
 
 <!-- more -->
 
@@ -127,7 +127,7 @@ As pessoas se irritam comigo dizendo que eu critico mas não proponho alternativ
 
 Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu jeito impaciente solicitei encarecidamente que utilizasse e-mail. Não funcionou. O resultado está aqui:
 
-{% img http://iuri.tem.blog.br/assets/facebookchat1.png "Conversa típica comigo no feissebuqui" %}
+{% img /assets/facebookchat1.png "Conversa típica comigo no feissebuqui" %}
 
 {% endpullquote %}
 
