@@ -64,9 +64,7 @@ Mesmo aquilo o que não foi apagado está enclausurado lá no feissebuqui. A ún
 
 Mas não acredita em mim. Compara a dinâmica do site quando ele é acessado pelo teu computador, com o teu perfil, e de **outros computadores** com outras contas. Porque não basta entrar em outra conta na mesma rede local. Tira tuas próprias conclusões, dessa vez baseado em fatos mais palpáveis, e não na tua bolha que é o que vem naturalmente quando tu liga o computador e acessa o feisse, que eu sei que tu faz.
 
-Toda vez que eu pergunto "*aonde é que estão as fotos?*"; "*aonde é que vocês narraram?*"; "*cadê o vídeo?*", a resposta é sempre a mesma.
-
-{" &quot;Tá no feisse.&quot; "}
+{" Toda vez que eu pergunto *aonde é que estão as fotos?*, *aonde é que vocês narraram?*; *cadê o vídeo?*, a resposta é sempre a mesma: "Tá no feisse." "}
 
 Só isto. Simples assim. Sem argumentos. Sem espaço pra questionamentos. Não importa o que eu penso, o que eu quero, o que eu mereço, o que eu preciso. É "tá no feisse e foda-te".
 
@@ -89,7 +87,7 @@ As novas gerações enxergarão como uma prática de alta estultícia isto o que
 ## Cultura do imediatismo
 
 {% pullquote %}
-Os filósofos dirão que a minha geração só olha para o presente e ignoram o passado.
+Os filósofos dirão que a minha geração só olha para o presente e ignora o passado.
 
 Eu certamente não me identifico com a minha geração e sofro as consequências disto diariamente. As pessoas acham que eu sou arrogante e prepotente.
 
@@ -101,11 +99,15 @@ Em decorrência deste meu rompimento com o senso comum que é mais responsabilid
 
 Qualquer semelhança com a "realidade" é absolutamente inevitável.
 
-{" O feissebuqui "funciona" e é "útil" para esta sociedade e geração, porque incentiva, facilita e organiza a cultura do imediatismo. "}
+{" O feissebuqui "funciona" e é "útil" para esta sociedade e geração porque incentiva, facilita e organiza a cultura do imediatismo. "}
 
-{" Todo mundo fica disputando espaço no mesmo microfone e ao mesmo tempo. Em comunhão de esforços, todo mundo garante que ninguém diga nada. "}
+Todo mundo fica disputando espaço no mesmo microfone e ao mesmo tempo. Em comunhão de esforços, todo mundo garante que ninguém diga nada.
 
-{" O pessoal, revoltado, usa toda sua energia emocional pra corrigir o que está errado. Não sobra energia pra tomar atitudes, fazer as coisas, muito menos para documentar o que está fazendo. "}
+O pessoal, revoltado, usa toda sua energia emocional pra corrigir o que está errado. Não sobra energia pra tomar atitudes, fazer as coisas, muito menos para documentar o que está fazendo.
+
+{% endpullquote %}
+
+{% pullquote %}
 
 Outro dia achei uma gravação de uma apresentação ao vivo de "Que País é Este" da banda Legião Urbana, onde o Renato Russo fica repetindo várias vezes a frase "*Ninguém faz nada*". Isto acontece depois de um caco na letra que é mais ou menos assim:
 
