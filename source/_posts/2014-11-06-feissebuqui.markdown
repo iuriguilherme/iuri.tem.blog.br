@@ -125,8 +125,8 @@ As pessoas se irritam comigo dizendo que eu critico mas não proponho alternativ
 
 Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu jeito impaciente solicitei encarecidamente que utilizasse e-mail. Não funcionou. O resultado está aqui:
 
-{% img [1] "Conversa típica comigo no feissebuqui" %}
+{% img [][1] "Conversa típica comigo no feissebuqui" %}
 
 {% endpullquote %}
 
-[1]: assets/facebookchat1.png
+[1]: /assets/facebookchat1.png
