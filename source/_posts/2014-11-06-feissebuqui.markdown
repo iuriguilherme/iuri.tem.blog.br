@@ -30,7 +30,7 @@ Feissebuqui é uma prisão. É um enclausuramento azul e branco onde tudo o que 
 
 Eu realmente não entendo de onde vem o senso comum que eu vejo nas pessoas de que aquilo se trata de uma ferramenta de divulgação em massa.
 
-Outro dia [discutimos][1] no [matepod][2] sobre [echo chambers][3] e o feissebuqui foi o cerne da questão.
+Outro dia [discutimos][1] no [matepod][2] sobre [echo chambers][3] e o feissebuqui foi o cerne da [questão][7].
 
 Quem usa a internet há anos como eu, e experimentou bastante com o feissebuqui que nem eu, tem propriedade pra afirmar que é uma ferramenta que só ajuda quem tem dinheiro. Muito dinheiro. E a única "ajuda" é comercial/marketeira. Não importa se o que tu quer promover é uma marca, uma empresa, uma pessoa, ou o teu ego, que é o mais comum. É só marketing e do pior tipo. E não importa as tuas amizades. O que importa é quanto dinheiro tu tem.
 
@@ -139,3 +139,4 @@ Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu 
 [4]: https://www.youtube.com/watch?v=wVLFLnlUo_c&t=2m2s
 [5]: http://books.google.com.br/books?id=zONY5xGk0EEC&lpg=PT418&dq=%22s%C3%B3%20que%20o%20ber%C3%A7o%20espl%C3%AAndido%20%C3%A9%20feito%20de%20pl%C3%A1stico%20barato%22&pg=PT418#v=onepage&q&f=false
 [6]: https://www.youtube.com/watch?v=wVLFLnlUo_c
+[7]: http://www.reddit.com/r/matehackers/comments/2jtrd8/metapodcast_as_c%C3%A2maras_de_eco_s%C3%A3o_um_pre%C3%A7o/
