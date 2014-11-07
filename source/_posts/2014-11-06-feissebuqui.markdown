@@ -113,7 +113,7 @@ O pessoal, revoltado, usa toda sua energia emocional pra corrigir o que está er
 
 Outro dia achei uma gravação de uma [apresentação ao vivo][6] de "Que País é Este" da banda Legião Urbana, onde o Renato Russo fica repetindo várias vezes a frase "[*Ninguém faz nada*][4]". Isto acontece depois de um [caco na letra][5] que é mais ou menos assim:
 
-{% blockquote Renato Russo ![][5] Que País é Este %}
+{% blockquote Renato Russo http://books.google.com.br/books?id=zONY5xGk0EEC&lpg=PT418&dq=%22s%C3%B3%20que%20o%20ber%C3%A7o%20espl%C3%AAndido%20%C3%A9%20feito%20de%20pl%C3%A1stico%20barato%22&pg=PT418#v=onepage&q&f=false Que País é Este %}
 Deitado eternamente em berço esplêndido...
 Só que o berço esplêndido é feito de plástico barato.
 Ninguém faz nada, ninguém faz nada.
