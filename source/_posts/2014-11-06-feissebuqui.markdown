@@ -121,7 +121,7 @@ Ninguém faz nada, ninguém faz nada.
 Que país é este?
 {% endblockquote %}
 
-Por enquanto o que vem na minha cabeça quando alguém me chama pra comentar ou participar de alguma coisa no feissebuqui é a imaginação do Renato Russo dançando em cima do palco com cara de sofrimento e repetindo insistentemente {" [Ninguééém faaaz naaadaaa][4] "}.
+Por enquanto {" o que vem na minha cabeça quando alguém me chama pra comentar ou participar de alguma coisa no feissebuqui é a imagem do Renato Russo dançando em cima do palco com cara de sofrimento e repetindo insistentemente "Ninguééém faaaz naaadaaa". "}
 
 As pessoas se irritam comigo dizendo que eu critico mas não proponho alternativas. Na verdade eu trabalho arduamente em alternativas há muitos anos, mas parece que sempre que eu crio alguma coisa simples e fácil pra todo mundo entender, todo mundo que me criticava não se pronuncia e desiste de admitir que continua no feissebuqui estritamente por preguiça.
 
