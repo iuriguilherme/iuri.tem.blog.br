@@ -66,7 +66,7 @@ Mesmo aquilo o que não foi apagado está enclausurado lá no feissebuqui. A ún
 
 Mas não acredita em mim. Compara a dinâmica do site quando ele é acessado pelo teu computador, com o teu perfil, e de **outros computadores** com outras contas. Porque não basta entrar em outra conta na mesma rede local. Tira tuas próprias conclusões, dessa vez baseado em fatos mais palpáveis, e não na tua bolha que é o que vem naturalmente quando tu liga o computador e acessa o feisse, que eu sei que tu faz.
 
-{" Toda vez que eu pergunto *aonde é que estão as fotos?*, *aonde é que vocês narraram?*; *cadê o vídeo?*, a resposta é sempre a mesma: "Tá no feisse." "}
+Toda vez que eu pergunto *aonde é que estão as fotos?*, *aonde é que vocês narraram?*, *cadê o vídeo?*, {" a resposta é sempre a mesma: "Tá no feisse." "}
 
 Só isto. Simples assim. Sem argumentos. Sem espaço pra questionamentos. Não importa o que eu penso, o que eu quero, o que eu mereço, o que eu preciso. É "tá no feisse e foda-te".
 
