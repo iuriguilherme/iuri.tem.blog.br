@@ -20,41 +20,41 @@ Coisas como a cor das árvores e de suas folhas, a dicotomia do som dos carros e
 
 Então este texto é pra ti e porque tu quer. Porque assim quem sabe teus pensamentos não ficam zunindo a madrugada inteira na minha mente.
 
-{% img center /assets/facebook_prisao.png "Prisão" %}
-
 <!-- more -->
 
 ## O cárcere velado
+
+{% img center /assets/facebook_prisao.png "Prisão" %}
 
 Feissebuqui é uma prisão. É um enclausuramento azul e branco onde tudo o que vai para lá, morre lá.
 
 Eu realmente não entendo de onde vem o senso comum que eu vejo nas pessoas de que aquilo se trata de uma ferramenta de divulgação em massa.
 
-Outro dia discutimos no matepod sobre echo chambers e o fessebuqui foi o cerne da questão.
+Outro dia [discutimos][1] no [matepod][2] sobre [echo chambers][3] e o feissebuqui foi o cerne da questão.
 
-Quem usa a internet há anos como eu, e experimentou bastante com o feissebuqui que nem eu, tem propriedade pra afirmar que é uma ferramenta que só ajuda quem tem dinheiro. Muito dinheiro. E a única "ajuda" é comercial/marketeira.
+Quem usa a internet há anos como eu, e experimentou bastante com o feissebuqui que nem eu, tem propriedade pra afirmar que é uma ferramenta que só ajuda quem tem dinheiro. Muito dinheiro. E a única "ajuda" é comercial/marketeira. Não importa se o que tu quer promover é uma marca, uma empresa, uma pessoa, ou o teu ego, que é o mais comum. É só marketing e do pior tipo. E não importa as tuas amizades. O que importa é quanto dinheiro tu tem.
 
 Não tem como hackear o feissebuqui. O pessoal que desenvolve lá em São Francisco tem bilhões de dólares disponíveis e passa 24 horas por dia e 7 dias por semana criando meios pra sufocar quem não paga pelos anúncios de forma não transparente.
 
 Então realmente não tem nenhuma relevância o teu conteúdo ou o que tu diz. Se tu usa feissebuqui pra escrever e te expressar, tu está gritando sozinha(o).
 
-Não importa o que tu ache, o que tu pense, o que tu veja. Teus óculos estão sujos. A merreca de "likes" e "shares" que tu garimpa são irrelevantes. Tu está gritando sozinha(o). Esse meu blog aqui que eu não divulgo e que é chato, tem mais repercussão que a tua linha do tempo.
+Não importa o que tu ache, o que tu pense, o que tu veja. Teus óculos estão sujos. A merreca de "likes" e "shares" que tu garimpa são irrelevantes. Tu está gritando sozinha(o). Esse meu [blog](/) aqui que eu não divulgo e que é chato, tem mais repercussão que a tua linha do tempo.
 
-Veja bem. Eu estou na internet desde 1996, no feissebuqui desde 2004 e na frente do computador analisando números e códigos desde 1990. Desde 1988 eu analiso o comportamento das pessoas. Eu não estou dando a minha opinião. Eu estou afirmando com categoria, propriedade e autoridade que feissebuqui é um echo chamber e que tu está gritando com as paredes.
+Veja bem. Eu estou na internet desde 1996, no feissebuqui desde 2004 e na frente do computador analisando números e códigos desde 1990. Desde 1988 eu analiso o comportamento das pessoas. Eu não estou dando a minha opinião. Eu estou afirmando com categoria, propriedade e autoridade que feissebuqui é uma [echo chamber][3] e que tu está gritando com as paredes.
 
 Mas não seja refém da minha avaliação (que é diferente de opinião). Vença um pouquinho a preguiça, eu juro que não dói, e analise os fatos. Vai fazer bem pra tua saúde psicológica e vai me ajudar a ficar quieto e não precisar botar estas coisas em palavras.
 
-Oportunamente eu vou corroborando meus argumentos com fontes, esta página deve ser atualizada oportunamente.
+Oportunamente eu vou corroborando meus argumentos com fontes, esta página deve ser atualizada conforme eu encontro tempo para isto.
 
-## O genocídio que vem de dentro (ou: a destruição da própria história por adesão)
+## O genocídio consentido (ou: a destruição da própria história por adesão)
 
 {% pullquote %}
 
-Quem estava nas ruas das capitais brasileiras em junho de 2013 viu a história.
+Quem estava nas ruas das capitais brasileiras em junho de 2013 viu e viveu a história.
 
-Quem estava no feissebuqui talvez tenha pego superficialmente esta história.
+Quem estava no feissebuqui e na frente da televisão talvez tenha visto superficialmente esta história.
 
-Quem está nascendo nunca vai saber o que aconteceu.
+Quem está nascendo daqui pra frente, nunca vai saber o que aconteceu.
 
 Infelizmente, 99% do que aconteceu nas ruas em junho de 2013 está na prisão do feissebuqui. Tem coisas que foram até apagadas.
 
@@ -111,9 +111,9 @@ O pessoal, revoltado, usa toda sua energia emocional pra corrigir o que está er
 
 {% pullquote %}
 
-Outro dia achei uma gravação de uma apresentação ao vivo de "Que País é Este" da banda Legião Urbana, onde o Renato Russo fica repetindo várias vezes a frase "*Ninguém faz nada*". Isto acontece depois de um caco na letra que é mais ou menos assim:
+Outro dia achei uma gravação de uma [apresentação ao vivo][6] de "Que País é Este" da banda Legião Urbana, onde o Renato Russo fica repetindo várias vezes a frase "[*Ninguém faz nada*][4]". Isto acontece depois de um [caco na letra][5] que é mais ou menos assim:
 
-{% blockquote Renato Russo %}
+{% blockquote Renato Russo ![][5] Que País é Este %}
 Deitado eternamente em berço esplêndido...
 Só que o berço esplêndido é feito de plástico barato.
 Ninguém faz nada, ninguém faz nada.
@@ -121,13 +121,21 @@ Ninguém faz nada, ninguém faz nada.
 Que país é este?
 {% endblockquote %}
 
-Por enquanto o que vem na minha cabeça quando alguém me chama pra comentar ou participar de alguma coisa no feissebuqui é a imaginação do Renato Russo dançando em cima do palco com cara de sofrimento e repetindo insistentemente {" "Ninguééém faaaz naaadaaa" "}.
+Por enquanto o que vem na minha cabeça quando alguém me chama pra comentar ou participar de alguma coisa no feissebuqui é a imaginação do Renato Russo dançando em cima do palco com cara de sofrimento e repetindo insistentemente {" [Ninguééém faaaz naaadaaa][4] "}.
 
 As pessoas se irritam comigo dizendo que eu critico mas não proponho alternativas. Na verdade eu trabalho arduamente em alternativas há muitos anos, mas parece que sempre que eu crio alguma coisa simples e fácil pra todo mundo entender, todo mundo que me criticava não se pronuncia e desiste de admitir que continua no feissebuqui estritamente por preguiça.
+
+{% endpullquote %}
+
+## Casos de insucesso
 
 Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu jeito impaciente solicitei encarecidamente que utilizasse e-mail. Não funcionou. O resultado está aqui:
 
 {% img center /assets/facebookchat1.png "Conversa típica comigo no feissebuqui" %}
 
-{% endpullquote %}
-
+[1]: https://matehackers.org/doku.php/matepod?&#primeiro_podcast
+[2]: https://matehackers.org/doku.php/matepod
+[3]: https://en.wikipedia.org/wiki/Echo_chamber_%28media%29
+[4]: https://www.youtube.com/watch?v=wVLFLnlUo_c&t=2m2s
+[5]: http://books.google.com.br/books?id=zONY5xGk0EEC&lpg=PT418&dq=%22s%C3%B3%20que%20o%20ber%C3%A7o%20espl%C3%AAndido%20%C3%A9%20feito%20de%20pl%C3%A1stico%20barato%22&pg=PT418#v=onepage&q&f=false
+[6]: https://www.youtube.com/watch?v=wVLFLnlUo_c
