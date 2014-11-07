@@ -59,17 +59,17 @@ Eu me considero um apoiador do feminismo radical nesta situação porque questio
 
 Para fins de definição, qualquer que seja a pessoa que decide tomar partido em qualquer causa é apoiador(a). Só é protagonista quem está intrinsecamente relacionado com a situação, que neste caso é uma única pessoa que é a adolescente vítima do estupro. Todas mulheres e homens que se solidarizarem com isto são apoiadoras(es) e não protagonistas.
 
-Desde já admito que sou privilegiado porque eu tenho barba e falo mais alto. E posso andar sem camiseta nas ruas de Porto Alegre no verão. É daí que eu tiro as condições necessárias para ter coragem de vir aqui e criticar afirmações feitas por quem se declara feminista radical. Provavelmente se eu tivesse mais características de um oprimido eu não teria tanta disposição. Isto é o que o vulgo machista chama de “ter colhões”. O que não significa que eu vou ficar quieto e deixar só as mulheres falarem o que bem entendem. Porque eu ainda to respirando e vou atormentar quem quer que seja.
+Desde já admito que sou privilegiado porque eu tenho barba e falo mais alto. E posso andar sem camiseta nas ruas de Porto Alegre no verão. É daí que eu tiro as condições necessárias para ter coragem de vir aqui e criticar afirmações feitas por quem se declara feminista radical. Provavelmente se eu tivesse mais características de um oprimido eu não teria tanta disposição. Isto é o que o vulgo machista chama de "ter colhões". O que não significa que eu vou ficar quieto e deixar só as mulheres falarem o que bem entendem. Porque eu ainda to respirando e vou atormentar quem quer que seja.
 {% endpullquote %}
 
 ## Conclusão
 
 {% pullquote %}
-Espero sinceramente que qualquer ato político, ou [evento de facebook][1], tenha por consequência motivar pessoas a tomarem atitudes para que [crimes de estupro][2] sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do [exame de corpo em delito][2], acompanhe o [processo judicial][2] e garanta que seja feita “justiça” - não a justiça do [terceiro mandamento satânico](http://www.mortesubita.org/satanismo/textos-satanicos/os-dez-mandamentos-satanicos/).
+Espero sinceramente que qualquer ato político, ou [evento de facebook][1], tenha por consequência motivar pessoas a tomarem atitudes para que [crimes de estupro][2] sejam cada vez menos frequentes, ou que terminem de uma vez. Espero que quem se meter nessa história fiscalize o processo do [exame de corpo em delito][2], acompanhe o [processo judicial][2] e garanta que seja feita "justiça" - não a justiça do [terceiro mandamento satânico][5].
 
 Infelizmente não é o que eu vejo. Eu normalmente vejo as pessoas se reunirem de forma reagente com aquela postura de vingança quando acontece alguma coisa, lincham gente em praça pública se for necessário, se pautam pelo ódio promovido pelos meios de comunicação de massa - como por exemplo a mídia burguesa ortodoxa ou mesmo a moderna rede social da burguesia, o feissebuqui - e pouca gente ou quase ninguém se preocupa em apurar os fatos, acompanhar o processo, estudar o caso e usar o conhecimento obtido a custo de sofrimento para tomar ações no futuro.
 
-Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E {" as pessoas arrumam meios pra desperdiçar sua energia gritando sozinhas "} em frente a prédios vazios ou em redes sociais sujeitas e pautadas pela síndrome de [echo chamber](https://en.wikipedia.org/wiki/Echo_chamber_%28media%29).
+Geralmente isto acaba ficando na mão de agentes governamentais que estão atrelados a interesses diversos. E {" as pessoas arrumam meios pra desperdiçar sua energia gritando sozinhas "} em frente a prédios vazios ou em redes sociais sujeitas e pautadas pela síndrome de [echo chamber][4].
 {% endpullquote %}
 
 ## Sugestão
@@ -78,7 +78,7 @@ Então o que eu posso sugerir é uma ação conjunta.
 
 Em primeiro lugar é importante ter o máximo possível de informação sobre como é que deveria funcionar o sistema judiciário. Porque é que algumas pessoas têm medo de pixar chãos, muros, pra denunciar o que está errado, e outras não têm medo de estuprar adolescentes? A justiça não é a mesma pra todo mundo?
 
-Porque é que um morador de rua tomou coragem e denunciou este crime especificamente? Todo dia acontece muita coisa no centro da cidade, há muitos moradores de rua que assistem a tudo de "mãos atadas", alguns até acabam se tornando coniventes com o sistema criminoso que funciona quando a reportagem não está nas ruas. O que é que este caso teve de diferente e porque gerou repercussão? Como é que a revolta popular atingiu um patamar onde era melhor arriscar a vida e denunciar um crime pressupostamente hediondo, desmerecendo a [Omerta](http://pt.wikipedia.org/wiki/Omert%C3%A0), os códigos de conduta das ruas de Porto Alegre, e acionando a segurança pública do estado, conhecida justamente por vilipendiar e bestializar os moradores de rua?
+Porque é que um morador de rua tomou coragem e denunciou este crime especificamente? Todo dia acontece muita coisa no centro da cidade, há muitos moradores de rua que assistem a tudo de "mãos atadas", alguns até acabam se tornando coniventes com o sistema criminoso que funciona quando a reportagem não está nas ruas. O que é que este caso teve de diferente e porque gerou repercussão? Como é que a revolta popular atingiu um patamar onde era melhor arriscar a vida e denunciar um crime pressupostamente hediondo, desmerecendo a [Omerta][10], os códigos de conduta das ruas de Porto Alegre, e acionando a segurança pública do estado, conhecida justamente por vilipendiar e bestializar os moradores de rua?
 
 {% pullquote %}
 Estas perguntas não serão respondidas por quem está lendo isto e tão somente pensando e refletindo sozinha(o) sobre estas coisas. É necessário debater em grupo sobre estes assuntos, e isto é um processo demorado. Porque nesta sociedade as pessoas não costumam conversar para criar consenso, geralmente é as diferenças que falam mais alto e somos profissionais em promover segregação. Eu admiro a persistência de quem persevera reunindo grupos e promovendo debate. Não respeito e considero inválidas iniciativas de reunir pessoas no Facebook, mas isto eu explico em outra ocasião.
@@ -90,7 +90,7 @@ Isto não costuma acontecer através de eventos de facebook. Leva um tempo, tent
 
 Como eu resumi em algum parágrafo anterior, desperdiçar energia não é uma boa ideia. Insistir nos meios que deveriam funcionar, e de fato não funcionam, demanda tempo e engajamento. Indignação que não continua a gerar ações é desperdício de energia.
 
-Convenientemente, agora mesmo alguém me mandou este [link](http://seashepherd.org.br/equipamentos-de-campo-do-issb-sao-roubados-durante-operacao-no-litoral-do-rs/) que relata a ação de ecoativistas gaúchas(os). Para as ativistas que não querem depender da organização da conjuntura feminista, é um bom texto.
+Convenientemente, agora mesmo alguém me mandou este [link][9] que relata a ação de ecoativistas gaúchas(os). Para as ativistas que não querem depender da organização da conjuntura feminista, é um bom texto.
 
 Estou sempre torcendo para ser surpreendido e acompanhando **movimento** em todo lugar.
 
@@ -137,15 +137,15 @@ Se alguém tiver coisas construtivas e que ajudem a combater a violência contra
 
 O link para esta publicação foi apagado do evento do facebook em questão, assim como todos meus comentários. Como é de costume. A maioria das pessoas se escondem atrás de grupos inexistentes, para fazer parecer que são muitas, quando na verdade geralmente é só uma pessoa falando sozinha. E todo mundo que tiver uma opinião divergente geralmente é convidado a se retirar.
 
-Isto faz absoluto sentido. Eu não deixo ninguém escrever na [Igreja Universal do Reino do IURI](http://iuri.blog.br/). Não posso me vangloriar por ser honesto e declarar explicitamente que aqui é o **meu** território. Eu não tenho nada contra quem se traveste de coletivo e mente que é aberto a críticas, opiniões e é a favor da democracia e liberdade de expressão.
+Isto faz absoluto sentido. Eu não deixo ninguém escrever na [Igreja Universal do Reino do IURI](/). Não posso me vangloriar por ser honesto e declarar explicitamente que aqui é o **meu** território. Eu não tenho nada contra quem se traveste de coletivo e mente que é aberto a críticas, opiniões e é a favor da democracia e liberdade de expressão.
 
 Não tenho nada contra quem cria "espaços abertos, independentes e autônomos" só pra monopolizar um microfone e usar adeptos como massa de manobra para fortalecer as *suas* opiniões pessoais. Eu só prefiro ser honesto e não faço isto.
 
-Tentei inutilmente debater e contrapor os argumentos colocados, mas a minha suspeita de que o evento era uma espécie de casinha da Barbie que iria ser defendida a todo custo foi confirmada. Para quem não conhece, nós portoalegrenses temos a cultura do [fascismo](https://pt.wikipedia.org/wiki/Fascismo) arraigada e somos intolerantes com quem tenta derrubar nossos castelos de areia, porque as migalhas que nos agarramos é tudo o que temos. É mais ou menos assim que nos segregamos e promovemos a desunião, para que nossos [pequenos tiranos](http://www.metro.org.br/es/editor/os-pequenos-tiranos) nos dividam e nos dominem. Mas tem coisas piores, com o tempo eu documento tudo.
+Tentei inutilmente debater e contrapor os argumentos colocados, mas a minha suspeita de que o evento era uma espécie de casinha da Barbie que iria ser defendida a todo custo foi confirmada. Para quem não conhece, nós portoalegrenses temos a cultura do [fascismo][8] arraigada e somos intolerantes com quem tenta derrubar nossos castelos de areia, porque as migalhas que nos agarramos é tudo o que temos. É mais ou menos assim que nos segregamos e promovemos a desunião, para que nossos [pequenos tiranos][7] nos dividam e nos dominem. Mas tem coisas piores, com o tempo eu documento tudo.
 
 Tentei também entender o motivo da censura, contudo, não fui capaz de estabelecer diálogo consistente em tempo hábil. O que eu consegui foi irritar a responsável pelo evento. Ela demonstrou claramente e também declarou explicitamente que estava apagando minhas publicações porque achava que eu estava atrapalhando. Presumo que ela não estava tentando me entender tampouco dialogar, estava tentando defender o espaço que ela entendia como privativo e exclusivo para expressões aprovadas por ela.
 
-Depois disto, a autora resolveu bloquear o acesso da [conta que eu estava usando](http://iuri.neocities.org/paginas.html#facebook) ao conteúdo, teoricamente me impedindo de responder. É óbvio que isto não me impede de visualizar e responder, se eu quiser. Agora se eu quiser continuar vou ter que criar um perfil falso que atenda às expectativas impostas. Porque honestidade e autenticidade, como é de costume, nunca funciona com essa gente. Mas já é muito tempo de dedicação eu usar meu [perfil "oficial"](http://iuri.neocities.org/paginas.html#facebook).
+Depois disto, a autora resolveu bloquear o acesso da [conta que eu estava usando][6] ao conteúdo, teoricamente me impedindo de responder. É óbvio que isto não me impede de visualizar e responder, se eu quiser. Agora se eu quiser continuar vou ter que criar um perfil falso que atenda às expectativas impostas. Porque honestidade e autenticidade, como é de costume, nunca funciona com essa gente. Mas já é muito tempo de dedicação eu usar meu [perfil "oficial"][6].
 
 ## Reflexão
 
@@ -168,3 +168,10 @@ Normalmente eu simplesmente ignoro eventos de feissebuqui, só dediquei meu temp
 [1]: https://www.facebook.com/events/855095524524205/
 [2]: http://reddit.com/r/EstuproGasometro
 [3]: https://www.facebook.com/profile.php?id=100004396006680
+[4]: https://en.wikipedia.org/wiki/Echo_chamber_%28media%29
+[5]: http://www.mortesubita.org/satanismo/textos-satanicos/os-dez-mandamentos-satanicos/
+[6]: http://iuri.neocities.org/paginas.html#facebook
+[7]: http://www.metro.org.br/es/editor/os-pequenos-tiranos
+[8]: https://pt.wikipedia.org/wiki/Fascismo
+[9]: http://seashepherd.org.br/equipamentos-de-campo-do-issb-sao-roubados-durante-operacao-no-litoral-do-rs/
+[10]: http://pt.wikipedia.org/wiki/Omert%C3%A0
