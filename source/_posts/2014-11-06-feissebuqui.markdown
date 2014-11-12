@@ -133,6 +133,40 @@ Outro dia alguém veio tentar falar comigo usando o chat do feissebuqui. Do meu 
 
 {% img center /assets/facebookchat1.png "Conversa típica comigo no feissebuqui" %}
 
+## Opiniões de terceiras(os)
+
+Esta parte aqui é pra quem insiste em dizer que meu discurso é isolado e esquizofrênico.
+
+Começo com uma citação adaptada:
+
+{% blockquote Marcos Egito %}
+Não sou eu falando isto, tem uma legião que ampara meu discurso
+{% endblockquote %}
+
+E segue o baile:
+
+{% blockquote Breno http://listas.softwarelivre.org/pipermail/gt-educacao/2014-May/001659.html 'gt-educacao@listas.softwarelivre.org' %}
+As pessoas continuam produzindo conteúdo para o facebook achando que estão divulgando sua
+própria marca / produto / serviço, enquanto na verdade, estão apenas chamando mais usuários para
+o facebook e restringindo mais conteúdo apenas a usuários que tem cadastro com eles.
+
+Assim a coisa vai, sempre é tudo "gratuíto" basta fazer o cadastro. Tudo é "gratuíto" mas fica
+online, a mercê da empresa que disponibilizou, tudo bloqueado e trancado para ser acessado
+apenas em um lugar. Assim são estes cursos como divulgado.
+
+Para esses arigós é simples dizer "cria cadastro, é grátis". Cadastra nisso, cadastra naquilo.
+
+Não sabem quanto vale um cadastro. Os cadastros são revendidos e trocados por várias empresas.
+No WhatsApp (por exemplo) cada usuário cadastrado foi vendido para o facebook por R$ 82,00.
+
+No meio empresarial isto se chama "base" (não de clientes mas de potencial). Esta empresa
+divulgada apenas está criando base, oferece curso grátis, condena os otários a passarem o resto
+da vida recebendo e-mails de convites para outros cursos pagos, caros, etc, que provavelmente
+usarão alguma espécie de DRM para garantir que não sejam distribuidos livremente, copiados,
+melhorados, etc, todo aquele blablabla da GPL que as pessoas do movimento software livre não
+querem saber.
+{% endblockquote %}
+
 [1]: https://matehackers.org/doku.php/matepod?&#primeiro_podcast
 [2]: https://matehackers.org/doku.php/matepod
 [3]: https://en.wikipedia.org/wiki/Echo_chamber_%28media%29
