@@ -122,11 +122,13 @@ O pessoal, revoltado, usa toda sua energia emocional pra corrigir o que está er
 Outro dia achei uma gravação de uma [apresentação ao vivo][6] de "Que País é Este" da banda Legião Urbana, onde o Renato Russo fica repetindo várias vezes a frase "[*Ninguém faz nada*][4]". Isto acontece depois de um [caco na letra][5] que é mais ou menos assim:
 
 {% blockquote Renato Russo http://books.google.com.br/books?id=zONY5xGk0EEC&lpg=PT418&dq=%22s%C3%B3%20que%20o%20ber%C3%A7o%20espl%C3%AAndido%20%C3%A9%20feito%20de%20pl%C3%A1stico%20barato%22&pg=PT418#v=onepage&q&f=false Que País é Este %}
+
 Deitado eternamente em berço esplêndido...
 Só que o berço esplêndido é feito de plástico barato.
 Ninguém faz nada, ninguém faz nada.
 Ninguém faz nada, ninguém faz nada.
 Que país é este?
+
 {% endblockquote %}
 
 Por enquanto {" o que vem na minha cabeça quando alguém me chama pra comentar ou participar de alguma coisa no feissebuqui é a imagem do Renato Russo dançando em cima do palco com cara de sofrimento e repetindo insistentemente "Ninguééém faaaz naaadaaa". "}
@@ -154,6 +156,7 @@ Não sou eu falando isto, tem uma legião que ampara meu discurso
 E segue o baile:
 
 {% blockquote Breno http://listas.softwarelivre.org/pipermail/gt-educacao/2014-May/001659.html 'gt-educacao@listas.softwarelivre.org' %}
+
 As pessoas continuam produzindo conteúdo para o facebook achando que estão divulgando sua
 própria marca / produto / serviço, enquanto na verdade, estão apenas chamando mais usuários para
 o facebook e restringindo mais conteúdo apenas a usuários que tem cadastro com eles.
@@ -173,6 +176,14 @@ da vida recebendo e-mails de convites para outros cursos pagos, caros, etc, que 
 usarão alguma espécie de DRM para garantir que não sejam distribuidos livremente, copiados,
 melhorados, etc, todo aquele blablabla da GPL que as pessoas do movimento software livre não
 querem saber.
+
+{% endblockquote %}
+
+{% blockquote Marcelo Braz http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/63282 'Belisa, ecosol, as matemáticas e as escolhas coletivas[também a sustância metarec]' %}
+
+...mandou lá na prisão chamada facecrook uma dica que tem a ver
+com esse papo [e como aquilo é prisão vai morrer lá mesmo...].
+
 {% endblockquote %}
 
 [1]: https://matehackers.org/doku.php/matepod?&#primeiro_podcast
