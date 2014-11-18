@@ -6,6 +6,7 @@ comments: true
 sharing: true
 footer: true
 published: true
+updated: 2014-11-18 00:31
 ---
 
 ## Antes de mais nada, um desabafo
@@ -155,6 +156,8 @@ Não sou eu falando isto, tem uma legião que ampara meu discurso
 
 E segue o baile:
 
+### Citações
+
 {% blockquote Breno http://listas.softwarelivre.org/pipermail/gt-educacao/2014-May/001659.html 'gt-educacao@listas.softwarelivre.org' %}
 
 As pessoas continuam produzindo conteúdo para o facebook achando que estão divulgando sua
@@ -186,6 +189,12 @@ com esse papo [e como aquilo é prisão vai morrer lá mesmo...].
 
 {% endblockquote %}
 
+### Matérias
+
+[Apartheid no Facebook: “pague, ou desapareça” (por Por Renan Dissenha Fagundes)][10]
+
+[Facebook Is Ending the Free Ride][11]
+
 [1]: https://matehackers.org/doku.php/matepod?&#primeiro_podcast
 [2]: https://matehackers.org/doku.php/matepod
 [3]: https://en.wikipedia.org/wiki/Echo_chamber_%28media%29
@@ -195,3 +204,5 @@ com esse papo [e como aquilo é prisão vai morrer lá mesmo...].
 [7]: http://www.reddit.com/r/matehackers/comments/2jtrd8/metapodcast_as_c%C3%A2maras_de_eco_s%C3%A3o_um_pre%C3%A7o/
 [8]: https://www.youtube.com/watch?v=TsnhnmGF23c
 [9]: /agressividade
+[10]: http://www.sul21.com.br/jornal/apartheid-no-facebook-pague-ou-desapareca-por-por-renan-dissenha-fagundes/
+[11]: http://valleywag.gawker.com/facebook-is-about-to-make-everyone-pay-1547309811

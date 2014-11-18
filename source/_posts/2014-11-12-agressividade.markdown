@@ -5,7 +5,7 @@ tags: [agressividade, ofensa, postura, conduta]
 comments: true
 sharing: true
 footer: true
-published: false
+published: true
 ---
 
 ## Ofensas
