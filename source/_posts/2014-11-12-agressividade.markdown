@@ -6,13 +6,14 @@ comments: true
 sharing: true
 footer: true
 published: true
+updated: 2014-11-18 07:27
 ---
 
 ## Ofensas
 
 As pessoas podem se ofender com o que eu falo. Isto não significa que eu seja ofensivo. Eu sou, sim, agressivo. Extremamente agressivo.
 
-[Violentamente pacífico][8], talvez. Minha agressividade é dissoluta de ofensas porque um ofensor não tem controle sobre suas ações, e age movido por energia emocional.
+[Violentamente pacífico][2], talvez. Minha agressividade é dissoluta de ofensas porque um ofensor não tem controle sobre suas ações, e age movido por energia emocional.
 
 Não estou dizendo que eu nunca, em momento algum, em nenhuma circunstância, ofendo. Estou dizendo que a grande maioria das minhas intervenções agressivas é friamente calculada e desprovida de ofensas, para não dizer que são todas. Agressivas, sim. Ofensivas, não.
 
@@ -70,4 +71,5 @@ Ser criticado, agredido, corrigido, é certamente um ataque totalmente indesejad
 
 A minha motivação pra se agressivo não é a compaixão. Se eu fosse motivado pela compaixão, eu ia ser hipócrita e dar pras pessoas o que elas querem. E pra te dar o que tu quer já tem televisão, redes sociais, e milhões de empresas que querem o teu dinheiro fazendo.
 
-[1]: /feissebuqui
+[1]: /blog/feissebuqui
+[2]: https://www.youtube.com/watch?v=TsnhnmGF23c
