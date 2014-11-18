@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 published: true
-updated: 2014-11-18 07:27
+updated: 2014-11-18 19:06
 ---
 
 ## Ofensas
@@ -22,6 +22,8 @@ Quem se ofende com o que eu digo ou escrevo é totalmente responsável pela ofen
 Ser agressivo não configura crime e não é desrespeitoso. Agressividade é fruto de coragem e sabedoria.
 
 Por exemplo, se eu digo que tu é burguês e fascista porque tu usa [feissebuqui][1], e tu te ofende, é porque tu é imbecil pra caralho mesmo. Foda-te. Com todo o devido respeito.
+
+<!-- more -->
 
 ## Dependência
 
